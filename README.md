@@ -1,8 +1,8 @@
-# Minecraft-Worlds
+﻿# Minecraft-Worlds
 # 尝试利用GitHub同步mc存档ing
 # this line is meaningless
 
-![网图资源自制，侵删](https://postimg.cc/image/fpmzq36il/)
+![网图资源自制，侵删](https://postimg.cc/image/fpmzq36il/icon.png)
 
 ## What you should know
 The map is called "Gitcraft_Test".**It will be originally in Minecraft Java
