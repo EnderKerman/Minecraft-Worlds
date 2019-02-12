@@ -28,6 +28,22 @@ to "version_name". For example, "1.8_Gitcraft_test". You don't have to add
 the third part of the version #. After all copy your folder to `Worlds` directory,
 `git add` your folder, `commit` and then `push` your changes online!
 
+## Further information
+In the root directory, you'll see a file named "LOCK". Inside it you'll find something like this:
+```
+1.8_Gitcraft_test: unlocked
+1.13_Minecaea: locked
+```
+This file shows which world is under edit by someone and which world isn't.
+When you are to pull, change and push a world, you need to check this file that if the world is
+playing by someone (locked). If so, please don't play it now. If not, you will have to edit the "LOCK" file
+and add "locked" to the world you're playing, commit it, and eventually play your game. 
+Please don't forget to change "unlocked" back.
+And don't worry about the syntax, lock check is completely done by hand, so there is no way saying syntax.
+
 ### Addendum
 Don't know where to find your maps? Open `C:\Users\(Your Username)\AppData\Roaming\.minecraft\saves`
 and you can find your saves!
+
+PS: Your downloaded worlds also have to go here!
+Remember to copy and paste world directory after you download or changed the world.
