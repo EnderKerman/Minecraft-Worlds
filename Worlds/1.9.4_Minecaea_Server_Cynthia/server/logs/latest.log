@@ -1,0 +1,1372 @@
+[15:23:42] [Server thread/INFO]: Starting minecraft server version 1.9.4
+[15:23:42] [Server thread/INFO]: Loading properties
+[15:23:42] [Server thread/INFO]: Default game type: SURVIVAL
+[15:23:43] [Server thread/INFO]: This server is running Paper version git-Paper-773 (MC: 1.9.4) (Implementing API version 1.9.4-R0.1-SNAPSHOT)
+[15:23:43] [Server thread/INFO]: Debug logging is disabled
+[15:23:43] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[15:23:43] [Server thread/INFO]: Using 4 threads for Netty based IO
+[15:23:43] [Server thread/INFO]: Spigot Timings: true - Verbose: true - Interval: 5m - Length: 60m
+[15:23:43] [Server thread/INFO]: Generating keypair
+[15:23:43] [Server thread/INFO]: Starting Minecraft server on *:25565
+[15:23:43] [Server thread/INFO]: Using default channel type
+[15:23:43] [Server thread/INFO]: Set PluginClassLoader as parallel capable
+[15:23:43] [Server thread/INFO]: [RaspberryJuice] Loading RaspberryJuice v1.11
+[15:23:43] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[15:23:43] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[15:23:43] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[15:23:43] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[15:23:43] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[15:23:43] [Server thread/INFO]: **** Beginning UUID conversion, this may take A LONG time ****
+[15:23:43] [Server thread/INFO]: Preparing level "world"
+[15:23:43] [Server thread/INFO]: -------- World Settings For [world] --------
+[15:23:43] [Server thread/INFO]: Item Despawn Rate: 6000
+[15:23:43] [Server thread/INFO]: Item Merge Radius: 2.5
+[15:23:43] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[15:23:43] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[15:23:43] [Server thread/INFO]: Max Entity Collisions: 8
+[15:23:43] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[15:23:43] [Server thread/INFO]: Experience Merge Radius: 3.0
+[15:23:43] [Server thread/INFO]: View Distance: 10
+[15:23:43] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[15:23:43] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[15:23:43] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[15:23:43] [Server thread/INFO]: Random Lighting Updates: false
+[15:23:43] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[15:23:43] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[15:23:43] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[15:23:43] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[15:23:43] [Server thread/INFO]: Cane Growth Modifier: 100%
+[15:23:43] [Server thread/INFO]: Melon Growth Modifier: 100%
+[15:23:43] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[15:23:43] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[15:23:43] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[15:23:43] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[15:23:43] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[15:23:43] [Server thread/INFO]: Structure Info Saving: true
+[15:23:43] [Server thread/INFO]: Mob Spawn Range: 4
+[15:23:43] [Server thread/INFO]: Max TNT Explosions: 100
+[15:23:43] [Server thread/INFO]: -------- World Settings For [world_nether] --------
+[15:23:43] [Server thread/INFO]: Item Despawn Rate: 6000
+[15:23:43] [Server thread/INFO]: Item Merge Radius: 2.5
+[15:23:43] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[15:23:43] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[15:23:43] [Server thread/INFO]: Max Entity Collisions: 8
+[15:23:43] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[15:23:43] [Server thread/INFO]: Experience Merge Radius: 3.0
+[15:23:43] [Server thread/INFO]: View Distance: 10
+[15:23:43] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[15:23:43] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[15:23:43] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[15:23:43] [Server thread/INFO]: Random Lighting Updates: false
+[15:23:43] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[15:23:43] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[15:23:43] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[15:23:43] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[15:23:43] [Server thread/INFO]: Cane Growth Modifier: 100%
+[15:23:43] [Server thread/INFO]: Melon Growth Modifier: 100%
+[15:23:43] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[15:23:43] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[15:23:43] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[15:23:43] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[15:23:43] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[15:23:43] [Server thread/INFO]: Structure Info Saving: true
+[15:23:43] [Server thread/INFO]: Mob Spawn Range: 4
+[15:23:43] [Server thread/INFO]: Max TNT Explosions: 100
+[15:23:43] [Server thread/INFO]: -------- World Settings For [world_the_end] --------
+[15:23:43] [Server thread/INFO]: Item Despawn Rate: 6000
+[15:23:43] [Server thread/INFO]: Item Merge Radius: 2.5
+[15:23:43] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[15:23:43] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[15:23:43] [Server thread/INFO]: Max Entity Collisions: 8
+[15:23:43] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[15:23:43] [Server thread/INFO]: Experience Merge Radius: 3.0
+[15:23:43] [Server thread/INFO]: View Distance: 10
+[15:23:43] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[15:23:43] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[15:23:43] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[15:23:43] [Server thread/INFO]: Random Lighting Updates: false
+[15:23:43] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[15:23:43] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[15:23:43] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[15:23:43] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[15:23:43] [Server thread/INFO]: Cane Growth Modifier: 100%
+[15:23:43] [Server thread/INFO]: Melon Growth Modifier: 100%
+[15:23:43] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[15:23:43] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[15:23:43] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[15:23:43] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[15:23:43] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[15:23:43] [Server thread/INFO]: Structure Info Saving: true
+[15:23:43] [Server thread/INFO]: Mob Spawn Range: 4
+[15:23:43] [Server thread/INFO]: Max TNT Explosions: 100
+[15:23:43] [Server thread/INFO]: Preparing start region for level 0 (Seed: 8228212278502378787)
+[15:23:44] [Server thread/INFO]: Preparing start region for level 1 (Seed: -3854128104719813695)
+[15:23:44] [Server thread/INFO]: Preparing start region for level 2 (Seed: -3854128104719813695)
+[15:23:44] [Server thread/INFO]: [RaspberryJuice] Enabling RaspberryJuice v1.11
+[15:23:44] [Server thread/INFO]: [RaspberryJuice] Using port 4711
+[15:23:44] [Server thread/INFO]: [RaspberryJuice] Using RELATIVE locations
+[15:23:44] [Server thread/INFO]: [RaspberryJuice] Using RIGHT clicks for hits
+[15:23:44] [Server thread/INFO]: [RaspberryJuice] ThreadListener Started
+[15:23:44] [Server thread/INFO]: Done (1.233s)! For help, type "help" or "?"
+[15:23:44] [Server thread/INFO]: Timings Reset
+[15:24:07] [Server thread/INFO]: --------- Help: Index ---------------------------
+[15:24:07] [Server thread/INFO]: Use /help [n] to get page n of help.
+[15:24:07] [Server thread/INFO]: Aliases: Lists command aliases
+[15:24:07] [Server thread/INFO]: Bukkit: All commands for Bukkit
+[15:24:07] [Server thread/INFO]: Minecraft: All commands for Minecraft
+[15:24:07] [Server thread/INFO]: /achievement: A Mojang provided command.
+[15:24:07] [Server thread/INFO]: /ban: A Mojang provided command.
+[15:24:07] [Server thread/INFO]: /ban-ip: A Mojang provided command.
+[15:24:07] [Server thread/INFO]: /banlist: A Mojang provided command.
+[15:24:07] [Server thread/INFO]: /blockdata: A Mojang provided command.
+[15:24:07] [Server thread/INFO]: /clear: A Mojang provided command.
+[15:24:07] [Server thread/INFO]: /clone: A Mojang provided command.
+[15:24:07] [Server thread/INFO]: /debug: A Mojang provided command.
+[15:24:07] [Server thread/INFO]: /defaultgamemode: A Mojang provided command.
+[15:24:07] [Server thread/INFO]: /deop: A Mojang provided command.
+[15:24:07] [Server thread/INFO]: /difficulty: A Mojang provided command.
+[15:24:07] [Server thread/INFO]: /effect: A Mojang provided command.
+[15:24:07] [Server thread/INFO]: /enchant: A Mojang provided command.
+[15:24:07] [Server thread/INFO]: /entitydata: A Mojang provided command.
+[15:24:07] [Server thread/INFO]: /execute: A Mojang provided command.
+[15:24:07] [Server thread/INFO]: /fill: A Mojang provided command.
+[15:24:07] [Server thread/INFO]: /gamemode: A Mojang provided command.
+[15:24:07] [Server thread/INFO]: /gamerule: A Mojang provided command.
+[15:24:07] [Server thread/INFO]: /give: A Mojang provided command.
+[15:24:07] [Server thread/INFO]: /help: Shows the help menu
+[15:24:07] [Server thread/INFO]: /kick: A Mojang provided command.
+[15:24:07] [Server thread/INFO]: /kill: A Mojang provided command.
+[15:24:07] [Server thread/INFO]: /list: A Mojang provided command.
+[15:24:07] [Server thread/INFO]: /me: A Mojang provided command.
+[15:24:07] [Server thread/INFO]: /minecraft:help: A Mojang provided command.
+[15:24:07] [Server thread/INFO]: /minecraft:tell: A Mojang provided command.
+[15:24:07] [Server thread/INFO]: /op: A Mojang provided command.
+[15:24:07] [Server thread/INFO]: /pardon: A Mojang provided command.
+[15:24:07] [Server thread/INFO]: /pardon-ip: A Mojang provided command.
+[15:24:07] [Server thread/INFO]: /particle: A Mojang provided command.
+[15:24:07] [Server thread/INFO]: /playsound: A Mojang provided command.
+[15:24:07] [Server thread/INFO]: /plugins: Gets a list of plugins running on the server
+[15:24:07] [Server thread/INFO]: /reload: Reloads the server configuration and plugins
+[15:24:07] [Server thread/INFO]: /replaceitem: A Mojang provided command.
+[15:24:07] [Server thread/INFO]: /restart: Restarts the server
+[15:24:07] [Server thread/INFO]: /save-all: A Mojang provided command.
+[15:24:07] [Server thread/INFO]: /save-off: A Mojang provided command.
+[15:24:07] [Server thread/INFO]: /save-on: A Mojang provided command.
+[15:24:07] [Server thread/INFO]: /say: A Mojang provided command.
+[15:24:07] [Server thread/INFO]: /scoreboard: A Mojang provided command.
+[15:24:07] [Server thread/INFO]: /seed: A Mojang provided command.
+[15:24:07] [Server thread/INFO]: /setblock: A Mojang provided command.
+[15:24:07] [Server thread/INFO]: /setidletimeout: A Mojang provided command.
+[15:24:07] [Server thread/INFO]: /setworldspawn: A Mojang provided command.
+[15:24:07] [Server thread/INFO]: /spawnpoint: A Mojang provided command.
+[15:24:07] [Server thread/INFO]: /spreadplayers: A Mojang provided command.
+[15:24:07] [Server thread/INFO]: /stats: A Mojang provided command.
+[15:24:07] [Server thread/INFO]: /stop: A Mojang provided command.
+[15:24:07] [Server thread/INFO]: /stopsound: A Mojang provided command.
+[15:24:07] [Server thread/INFO]: /summon: A Mojang provided command.
+[15:24:07] [Server thread/INFO]: /tell: A Mojang provided command.
+[15:24:07] [Server thread/INFO]: /tellraw: A Mojang provided command.
+[15:24:07] [Server thread/INFO]: /testfor: A Mojang provided command.
+[15:24:07] [Server thread/INFO]: /testforblock: A Mojang provided command.
+[15:24:07] [Server thread/INFO]: /testforblocks: A Mojang provided command.
+[15:24:07] [Server thread/INFO]: /time: A Mojang provided command.
+[15:24:07] [Server thread/INFO]: /timings: Manages Spigot Timings data to see performance of the server.
+[15:24:07] [Server thread/INFO]: /title: A Mojang provided command.
+[15:24:07] [Server thread/INFO]: /toggledownfall: A Mojang provided command.
+[15:24:07] [Server thread/INFO]: /tp: A Mojang provided command.
+[15:24:07] [Server thread/INFO]: /tps: Gets the current ticks per second for the server
+[15:24:07] [Server thread/INFO]: /trigger: A Mojang provided command.
+[15:24:07] [Server thread/INFO]: /version: Gets the version of this server including any plugins in use
+[15:24:07] [Server thread/INFO]: /weather: A Mojang provided command.
+[15:24:07] [Server thread/INFO]: /whitelist: A Mojang provided command.
+[15:24:07] [Server thread/INFO]: /worldborder: A Mojang provided command.
+[15:24:07] [Server thread/INFO]: /xp: A Mojang provided command.
+[15:25:04] [User Authenticator #1/INFO]: UUID of player Cynthia7979 is 45a8d5c3-bef2-3470-aae4-f6bb9488993a
+[15:25:04] [Server thread/INFO]: Cynthia7979[/127.0.0.1:52382] logged in with entity id 10 at ([world]514.8725277003438, 60.33624713481864, 762.2131574865643)
+[15:25:04] [Server thread/INFO]: You whisper to Cynthia7979: - »¶Ó­Äú, Cynthia7979!
+[15:33:09] [Thread-9/INFO]: [RaspberryJuice] Starting input thread
+[15:33:09] [Thread-7/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:52587.
+[15:33:09] [Thread-10/INFO]: [RaspberryJuice] Starting output thread!
+[15:33:13] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:52587.
+[15:38:48] [Thread-7/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:52876.
+[15:38:48] [Thread-11/INFO]: [RaspberryJuice] Starting input thread
+[15:38:48] [Thread-12/INFO]: [RaspberryJuice] Starting output thread!
+[15:38:53] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:52876.
+[15:45:24] [Thread-7/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:52989.
+[15:45:24] [Thread-13/INFO]: [RaspberryJuice] Starting input thread
+[15:45:24] [Thread-14/INFO]: [RaspberryJuice] Starting output thread!
+[15:45:29] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:52989.
+[15:46:12] [Thread-7/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:53005.
+[15:46:12] [Thread-16/INFO]: [RaspberryJuice] Starting output thread!
+[15:46:12] [Thread-15/INFO]: [RaspberryJuice] Starting input thread
+[15:46:16] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:53005.
+[15:46:52] [Thread-7/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:53018.
+[15:46:52] [Thread-17/INFO]: [RaspberryJuice] Starting input thread
+[15:46:52] [Thread-18/INFO]: [RaspberryJuice] Starting output thread!
+[15:46:56] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:53018.
+[15:57:06] [Async Chat Thread - #0/INFO]: <Cynthia7979> pos
+[15:57:08] [Server thread/INFO]: Cynthia7979 issued server command: /pos
+[15:57:10] [Server thread/INFO]: Cynthia7979 issued server command: /help
+[15:57:23] [Async Chat Thread - #0/INFO]: <Cynthia7979> 608 52 946
+[15:57:34] [Thread-7/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:53226.
+[15:57:34] [Thread-19/INFO]: [RaspberryJuice] Starting input thread
+[15:57:34] [Thread-20/INFO]: [RaspberryJuice] Starting output thread!
+[15:57:39] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:53226.
+[15:58:45] [Thread-7/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:53252.
+[15:58:45] [Thread-21/INFO]: [RaspberryJuice] Starting input thread
+[15:58:45] [Thread-22/INFO]: [RaspberryJuice] Starting output thread!
+[15:58:49] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:53252.
+[16:00:49] [Thread-23/INFO]: [RaspberryJuice] Starting input thread
+[16:00:49] [Thread-7/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:53282.
+[16:00:49] [Thread-24/INFO]: [RaspberryJuice] Starting output thread!
+[16:00:57] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:53282.
+[16:04:37] [Server thread/INFO]: Cynthia7979 issued server command: /tp 608 52 946
+[16:04:37] [Server thread/INFO]: [Cynthia7979: Teleported Cynthia7979 to 608.5, 52.0, 946.5]
+[16:05:11] [Thread-7/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:53358.
+[16:05:11] [Thread-26/INFO]: [RaspberryJuice] Starting output thread!
+[16:05:11] [Thread-25/INFO]: [RaspberryJuice] Starting input thread
+[16:05:15] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:53358.
+[16:11:02] [Server thread/INFO]: Cynthia7979 issued server command: /tp 608 52 946
+[16:11:02] [Server thread/INFO]: [Cynthia7979: Teleported Cynthia7979 to 608.5, 52.0, 946.5]
+[16:11:06] [Server thread/INFO]: Cynthia7979 issued server command: /tp 608 52 946
+[16:11:06] [Server thread/INFO]: [Cynthia7979: Teleported Cynthia7979 to 608.5, 52.0, 946.5]
+[16:11:09] [Thread-7/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:53518.
+[16:11:09] [Thread-27/INFO]: [RaspberryJuice] Starting input thread
+[16:11:09] [Thread-28/INFO]: [RaspberryJuice] Starting output thread!
+[16:11:13] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:53518.
+[16:14:44] [Server thread/INFO]: Cynthia7979 issued server command: /tp 608 52 946
+[16:14:44] [Server thread/INFO]: [Cynthia7979: Teleported Cynthia7979 to 608.5, 52.0, 946.5]
+[16:14:49] [Server thread/INFO]: Cynthia7979 issued server command: /tp 608 52 946
+[16:14:49] [Server thread/INFO]: [Cynthia7979: Teleported Cynthia7979 to 608.5, 52.0, 946.5]
+[16:16:01] [Thread-7/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:53616.
+[16:16:01] [Thread-29/INFO]: [RaspberryJuice] Starting input thread
+[16:16:01] [Thread-30/INFO]: [RaspberryJuice] Starting output thread!
+[16:16:01] [Server thread/WARN]: [RaspberryJuice] Error occured handling command
+[16:16:01] [Server thread/WARN]: java.lang.ArrayIndexOutOfBoundsException: 6
+[16:16:01] [Server thread/WARN]: 	at net.zhuoweizhang.raspberryjuice.RemoteSession.handleCommand(RemoteSession.java:171)
+[16:16:01] [Server thread/WARN]: 	at net.zhuoweizhang.raspberryjuice.RemoteSession.handleLine(RemoteSession.java:134)
+[16:16:01] [Server thread/WARN]: 	at net.zhuoweizhang.raspberryjuice.RemoteSession.tick(RemoteSession.java:114)
+[16:16:01] [Server thread/WARN]: 	at net.zhuoweizhang.raspberryjuice.RaspberryJuicePlugin$TickHandler.run(RaspberryJuicePlugin.java:206)
+[16:16:01] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_9_R2.scheduler.CraftTask.run(CraftTask.java:58)
+[16:16:01] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_9_R2.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:352)
+[16:16:01] [Server thread/WARN]: 	at net.minecraft.server.v1_9_R2.MinecraftServer.D(MinecraftServer.java:795)
+[16:16:01] [Server thread/WARN]: 	at net.minecraft.server.v1_9_R2.DedicatedServer.D(DedicatedServer.java:403)
+[16:16:01] [Server thread/WARN]: 	at net.minecraft.server.v1_9_R2.MinecraftServer.C(MinecraftServer.java:723)
+[16:16:01] [Server thread/WARN]: 	at net.minecraft.server.v1_9_R2.MinecraftServer.run(MinecraftServer.java:622)
+[16:16:01] [Server thread/WARN]: 	at java.lang.Thread.run(Unknown Source)
+[16:16:01] [Server thread/WARN]: [RaspberryJuice] Error occured handling command
+[16:16:01] [Server thread/WARN]: java.lang.ArrayIndexOutOfBoundsException: 6
+[16:16:01] [Server thread/WARN]: 	at net.zhuoweizhang.raspberryjuice.RemoteSession.handleCommand(RemoteSession.java:171)
+[16:16:01] [Server thread/WARN]: 	at net.zhuoweizhang.raspberryjuice.RemoteSession.handleLine(RemoteSession.java:134)
+[16:16:01] [Server thread/WARN]: 	at net.zhuoweizhang.raspberryjuice.RemoteSession.tick(RemoteSession.java:114)
+[16:16:01] [Server thread/WARN]: 	at net.zhuoweizhang.raspberryjuice.RaspberryJuicePlugin$TickHandler.run(RaspberryJuicePlugin.java:206)
+[16:16:01] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_9_R2.scheduler.CraftTask.run(CraftTask.java:58)
+[16:16:01] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_9_R2.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:352)
+[16:16:01] [Server thread/WARN]: 	at net.minecraft.server.v1_9_R2.MinecraftServer.D(MinecraftServer.java:795)
+[16:16:01] [Server thread/WARN]: 	at net.minecraft.server.v1_9_R2.DedicatedServer.D(DedicatedServer.java:403)
+[16:16:01] [Server thread/WARN]: 	at net.minecraft.server.v1_9_R2.MinecraftServer.C(MinecraftServer.java:723)
+[16:16:01] [Server thread/WARN]: 	at net.minecraft.server.v1_9_R2.MinecraftServer.run(MinecraftServer.java:622)
+[16:16:01] [Server thread/WARN]: 	at java.lang.Thread.run(Unknown Source)
+[16:16:01] [Server thread/WARN]: [RaspberryJuice] Error occured handling command
+[16:16:01] [Server thread/WARN]: java.lang.ArrayIndexOutOfBoundsException: 6
+[16:16:01] [Server thread/WARN]: 	at net.zhuoweizhang.raspberryjuice.RemoteSession.handleCommand(RemoteSession.java:171)
+[16:16:01] [Server thread/WARN]: 	at net.zhuoweizhang.raspberryjuice.RemoteSession.handleLine(RemoteSession.java:134)
+[16:16:01] [Server thread/WARN]: 	at net.zhuoweizhang.raspberryjuice.RemoteSession.tick(RemoteSession.java:114)
+[16:16:01] [Server thread/WARN]: 	at net.zhuoweizhang.raspberryjuice.RaspberryJuicePlugin$TickHandler.run(RaspberryJuicePlugin.java:206)
+[16:16:01] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_9_R2.scheduler.CraftTask.run(CraftTask.java:58)
+[16:16:01] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_9_R2.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:352)
+[16:16:01] [Server thread/WARN]: 	at net.minecraft.server.v1_9_R2.MinecraftServer.D(MinecraftServer.java:795)
+[16:16:01] [Server thread/WARN]: 	at net.minecraft.server.v1_9_R2.DedicatedServer.D(DedicatedServer.java:403)
+[16:16:01] [Server thread/WARN]: 	at net.minecraft.server.v1_9_R2.MinecraftServer.C(MinecraftServer.java:723)
+[16:16:01] [Server thread/WARN]: 	at net.minecraft.server.v1_9_R2.MinecraftServer.run(MinecraftServer.java:622)
+[16:16:01] [Server thread/WARN]: 	at java.lang.Thread.run(Unknown Source)
+[16:16:01] [Server thread/WARN]: [RaspberryJuice] Error occured handling command
+[16:16:01] [Server thread/WARN]: java.lang.ArrayIndexOutOfBoundsException: 6
+[16:16:01] [Server thread/WARN]: 	at net.zhuoweizhang.raspberryjuice.RemoteSession.handleCommand(RemoteSession.java:171)
+[16:16:01] [Server thread/WARN]: 	at net.zhuoweizhang.raspberryjuice.RemoteSession.handleLine(RemoteSession.java:134)
+[16:16:01] [Server thread/WARN]: 	at net.zhuoweizhang.raspberryjuice.RemoteSession.tick(RemoteSession.java:114)
+[16:16:01] [Server thread/WARN]: 	at net.zhuoweizhang.raspberryjuice.RaspberryJuicePlugin$TickHandler.run(RaspberryJuicePlugin.java:206)
+[16:16:01] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_9_R2.scheduler.CraftTask.run(CraftTask.java:58)
+[16:16:01] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_9_R2.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:352)
+[16:16:01] [Server thread/WARN]: 	at net.minecraft.server.v1_9_R2.MinecraftServer.D(MinecraftServer.java:795)
+[16:16:01] [Server thread/WARN]: 	at net.minecraft.server.v1_9_R2.DedicatedServer.D(DedicatedServer.java:403)
+[16:16:01] [Server thread/WARN]: 	at net.minecraft.server.v1_9_R2.MinecraftServer.C(MinecraftServer.java:723)
+[16:16:01] [Server thread/WARN]: 	at net.minecraft.server.v1_9_R2.MinecraftServer.run(MinecraftServer.java:622)
+[16:16:01] [Server thread/WARN]: 	at java.lang.Thread.run(Unknown Source)
+[16:16:01] [Server thread/WARN]: [RaspberryJuice] Error occured handling command
+[16:16:01] [Server thread/WARN]: java.lang.ArrayIndexOutOfBoundsException: 6
+[16:16:01] [Server thread/WARN]: 	at net.zhuoweizhang.raspberryjuice.RemoteSession.handleCommand(RemoteSession.java:171)
+[16:16:01] [Server thread/WARN]: 	at net.zhuoweizhang.raspberryjuice.RemoteSession.handleLine(RemoteSession.java:134)
+[16:16:01] [Server thread/WARN]: 	at net.zhuoweizhang.raspberryjuice.RemoteSession.tick(RemoteSession.java:114)
+[16:16:01] [Server thread/WARN]: 	at net.zhuoweizhang.raspberryjuice.RaspberryJuicePlugin$TickHandler.run(RaspberryJuicePlugin.java:206)
+[16:16:01] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_9_R2.scheduler.CraftTask.run(CraftTask.java:58)
+[16:16:01] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_9_R2.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:352)
+[16:16:01] [Server thread/WARN]: 	at net.minecraft.server.v1_9_R2.MinecraftServer.D(MinecraftServer.java:795)
+[16:16:01] [Server thread/WARN]: 	at net.minecraft.server.v1_9_R2.DedicatedServer.D(DedicatedServer.java:403)
+[16:16:01] [Server thread/WARN]: 	at net.minecraft.server.v1_9_R2.MinecraftServer.C(MinecraftServer.java:723)
+[16:16:01] [Server thread/WARN]: 	at net.minecraft.server.v1_9_R2.MinecraftServer.run(MinecraftServer.java:622)
+[16:16:01] [Server thread/WARN]: 	at java.lang.Thread.run(Unknown Source)
+[16:16:01] [Server thread/WARN]: [RaspberryJuice] Error occured handling command
+[16:16:01] [Server thread/WARN]: java.lang.ArrayIndexOutOfBoundsException: 6
+[16:16:01] [Server thread/WARN]: 	at net.zhuoweizhang.raspberryjuice.RemoteSession.handleCommand(RemoteSession.java:171)
+[16:16:01] [Server thread/WARN]: 	at net.zhuoweizhang.raspberryjuice.RemoteSession.handleLine(RemoteSession.java:134)
+[16:16:01] [Server thread/WARN]: 	at net.zhuoweizhang.raspberryjuice.RemoteSession.tick(RemoteSession.java:114)
+[16:16:01] [Server thread/WARN]: 	at net.zhuoweizhang.raspberryjuice.RaspberryJuicePlugin$TickHandler.run(RaspberryJuicePlugin.java:206)
+[16:16:01] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_9_R2.scheduler.CraftTask.run(CraftTask.java:58)
+[16:16:01] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_9_R2.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:352)
+[16:16:01] [Server thread/WARN]: 	at net.minecraft.server.v1_9_R2.MinecraftServer.D(MinecraftServer.java:795)
+[16:16:01] [Server thread/WARN]: 	at net.minecraft.server.v1_9_R2.DedicatedServer.D(DedicatedServer.java:403)
+[16:16:01] [Server thread/WARN]: 	at net.minecraft.server.v1_9_R2.MinecraftServer.C(MinecraftServer.java:723)
+[16:16:01] [Server thread/WARN]: 	at net.minecraft.server.v1_9_R2.MinecraftServer.run(MinecraftServer.java:622)
+[16:16:01] [Server thread/WARN]: 	at java.lang.Thread.run(Unknown Source)
+[16:16:02] [Server thread/WARN]: [RaspberryJuice] Error occured handling command
+[16:16:02] [Server thread/WARN]: java.lang.ArrayIndexOutOfBoundsException: 6
+[16:16:02] [Server thread/WARN]: 	at net.zhuoweizhang.raspberryjuice.RemoteSession.handleCommand(RemoteSession.java:171)
+[16:16:02] [Server thread/WARN]: 	at net.zhuoweizhang.raspberryjuice.RemoteSession.handleLine(RemoteSession.java:134)
+[16:16:02] [Server thread/WARN]: 	at net.zhuoweizhang.raspberryjuice.RemoteSession.tick(RemoteSession.java:114)
+[16:16:02] [Server thread/WARN]: 	at net.zhuoweizhang.raspberryjuice.RaspberryJuicePlugin$TickHandler.run(RaspberryJuicePlugin.java:206)
+[16:16:02] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_9_R2.scheduler.CraftTask.run(CraftTask.java:58)
+[16:16:02] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_9_R2.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:352)
+[16:16:02] [Server thread/WARN]: 	at net.minecraft.server.v1_9_R2.MinecraftServer.D(MinecraftServer.java:795)
+[16:16:02] [Server thread/WARN]: 	at net.minecraft.server.v1_9_R2.DedicatedServer.D(DedicatedServer.java:403)
+[16:16:02] [Server thread/WARN]: 	at net.minecraft.server.v1_9_R2.MinecraftServer.C(MinecraftServer.java:723)
+[16:16:02] [Server thread/WARN]: 	at net.minecraft.server.v1_9_R2.MinecraftServer.run(MinecraftServer.java:622)
+[16:16:02] [Server thread/WARN]: 	at java.lang.Thread.run(Unknown Source)
+[16:16:02] [Server thread/WARN]: [RaspberryJuice] Error occured handling command
+[16:16:02] [Server thread/WARN]: java.lang.ArrayIndexOutOfBoundsException: 6
+[16:16:02] [Server thread/WARN]: 	at net.zhuoweizhang.raspberryjuice.RemoteSession.handleCommand(RemoteSession.java:171)
+[16:16:02] [Server thread/WARN]: 	at net.zhuoweizhang.raspberryjuice.RemoteSession.handleLine(RemoteSession.java:134)
+[16:16:02] [Server thread/WARN]: 	at net.zhuoweizhang.raspberryjuice.RemoteSession.tick(RemoteSession.java:114)
+[16:16:02] [Server thread/WARN]: 	at net.zhuoweizhang.raspberryjuice.RaspberryJuicePlugin$TickHandler.run(RaspberryJuicePlugin.java:206)
+[16:16:02] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_9_R2.scheduler.CraftTask.run(CraftTask.java:58)
+[16:16:02] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_9_R2.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:352)
+[16:16:02] [Server thread/WARN]: 	at net.minecraft.server.v1_9_R2.MinecraftServer.D(MinecraftServer.java:795)
+[16:16:02] [Server thread/WARN]: 	at net.minecraft.server.v1_9_R2.DedicatedServer.D(DedicatedServer.java:403)
+[16:16:02] [Server thread/WARN]: 	at net.minecraft.server.v1_9_R2.MinecraftServer.C(MinecraftServer.java:723)
+[16:16:02] [Server thread/WARN]: 	at net.minecraft.server.v1_9_R2.MinecraftServer.run(MinecraftServer.java:622)
+[16:16:02] [Server thread/WARN]: 	at java.lang.Thread.run(Unknown Source)
+[16:16:02] [Server thread/WARN]: [RaspberryJuice] Error occured handling command
+[16:16:02] [Server thread/WARN]: java.lang.ArrayIndexOutOfBoundsException: 6
+[16:16:02] [Server thread/WARN]: 	at net.zhuoweizhang.raspberryjuice.RemoteSession.handleCommand(RemoteSession.java:171)
+[16:16:02] [Server thread/WARN]: 	at net.zhuoweizhang.raspberryjuice.RemoteSession.handleLine(RemoteSession.java:134)
+[16:16:02] [Server thread/WARN]: 	at net.zhuoweizhang.raspberryjuice.RemoteSession.tick(RemoteSession.java:114)
+[16:16:02] [Server thread/WARN]: 	at net.zhuoweizhang.raspberryjuice.RaspberryJuicePlugin$TickHandler.run(RaspberryJuicePlugin.java:206)
+[16:16:02] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_9_R2.scheduler.CraftTask.run(CraftTask.java:58)
+[16:16:02] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_9_R2.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:352)
+[16:16:02] [Server thread/WARN]: 	at net.minecraft.server.v1_9_R2.MinecraftServer.D(MinecraftServer.java:795)
+[16:16:02] [Server thread/WARN]: 	at net.minecraft.server.v1_9_R2.DedicatedServer.D(DedicatedServer.java:403)
+[16:16:02] [Server thread/WARN]: 	at net.minecraft.server.v1_9_R2.MinecraftServer.C(MinecraftServer.java:723)
+[16:16:02] [Server thread/WARN]: 	at net.minecraft.server.v1_9_R2.MinecraftServer.run(MinecraftServer.java:622)
+[16:16:02] [Server thread/WARN]: 	at java.lang.Thread.run(Unknown Source)
+[16:16:02] [Server thread/WARN]: [RaspberryJuice] Error occured handling command
+[16:16:02] [Server thread/WARN]: java.lang.ArrayIndexOutOfBoundsException: 6
+[16:16:02] [Server thread/WARN]: 	at net.zhuoweizhang.raspberryjuice.RemoteSession.handleCommand(RemoteSession.java:171)
+[16:16:02] [Server thread/WARN]: 	at net.zhuoweizhang.raspberryjuice.RemoteSession.handleLine(RemoteSession.java:134)
+[16:16:02] [Server thread/WARN]: 	at net.zhuoweizhang.raspberryjuice.RemoteSession.tick(RemoteSession.java:114)
+[16:16:02] [Server thread/WARN]: 	at net.zhuoweizhang.raspberryjuice.RaspberryJuicePlugin$TickHandler.run(RaspberryJuicePlugin.java:206)
+[16:16:02] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_9_R2.scheduler.CraftTask.run(CraftTask.java:58)
+[16:16:02] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_9_R2.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:352)
+[16:16:02] [Server thread/WARN]: 	at net.minecraft.server.v1_9_R2.MinecraftServer.D(MinecraftServer.java:795)
+[16:16:02] [Server thread/WARN]: 	at net.minecraft.server.v1_9_R2.DedicatedServer.D(DedicatedServer.java:403)
+[16:16:02] [Server thread/WARN]: 	at net.minecraft.server.v1_9_R2.MinecraftServer.C(MinecraftServer.java:723)
+[16:16:02] [Server thread/WARN]: 	at net.minecraft.server.v1_9_R2.MinecraftServer.run(MinecraftServer.java:622)
+[16:16:02] [Server thread/WARN]: 	at java.lang.Thread.run(Unknown Source)
+[16:16:02] [Server thread/WARN]: [RaspberryJuice] Error occured handling command
+[16:16:02] [Server thread/WARN]: java.lang.ArrayIndexOutOfBoundsException: 6
+[16:16:02] [Server thread/WARN]: 	at net.zhuoweizhang.raspberryjuice.RemoteSession.handleCommand(RemoteSession.java:171)
+[16:16:02] [Server thread/WARN]: 	at net.zhuoweizhang.raspberryjuice.RemoteSession.handleLine(RemoteSession.java:134)
+[16:16:02] [Server thread/WARN]: 	at net.zhuoweizhang.raspberryjuice.RemoteSession.tick(RemoteSession.java:114)
+[16:16:02] [Server thread/WARN]: 	at net.zhuoweizhang.raspberryjuice.RaspberryJuicePlugin$TickHandler.run(RaspberryJuicePlugin.java:206)
+[16:16:02] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_9_R2.scheduler.CraftTask.run(CraftTask.java:58)
+[16:16:02] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_9_R2.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:352)
+[16:16:02] [Server thread/WARN]: 	at net.minecraft.server.v1_9_R2.MinecraftServer.D(MinecraftServer.java:795)
+[16:16:02] [Server thread/WARN]: 	at net.minecraft.server.v1_9_R2.DedicatedServer.D(DedicatedServer.java:403)
+[16:16:02] [Server thread/WARN]: 	at net.minecraft.server.v1_9_R2.MinecraftServer.C(MinecraftServer.java:723)
+[16:16:02] [Server thread/WARN]: 	at net.minecraft.server.v1_9_R2.MinecraftServer.run(MinecraftServer.java:622)
+[16:16:02] [Server thread/WARN]: 	at java.lang.Thread.run(Unknown Source)
+[16:16:02] [Server thread/WARN]: [RaspberryJuice] Error occured handling command
+[16:16:02] [Server thread/WARN]: java.lang.ArrayIndexOutOfBoundsException: 6
+[16:16:02] [Server thread/WARN]: 	at net.zhuoweizhang.raspberryjuice.RemoteSession.handleCommand(RemoteSession.java:171)
+[16:16:02] [Server thread/WARN]: 	at net.zhuoweizhang.raspberryjuice.RemoteSession.handleLine(RemoteSession.java:134)
+[16:16:02] [Server thread/WARN]: 	at net.zhuoweizhang.raspberryjuice.RemoteSession.tick(RemoteSession.java:114)
+[16:16:02] [Server thread/WARN]: 	at net.zhuoweizhang.raspberryjuice.RaspberryJuicePlugin$TickHandler.run(RaspberryJuicePlugin.java:206)
+[16:16:02] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_9_R2.scheduler.CraftTask.run(CraftTask.java:58)
+[16:16:02] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_9_R2.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:352)
+[16:16:02] [Server thread/WARN]: 	at net.minecraft.server.v1_9_R2.MinecraftServer.D(MinecraftServer.java:795)
+[16:16:02] [Server thread/WARN]: 	at net.minecraft.server.v1_9_R2.DedicatedServer.D(DedicatedServer.java:403)
+[16:16:02] [Server thread/WARN]: 	at net.minecraft.server.v1_9_R2.MinecraftServer.C(MinecraftServer.java:723)
+[16:16:02] [Server thread/WARN]: 	at net.minecraft.server.v1_9_R2.MinecraftServer.run(MinecraftServer.java:622)
+[16:16:02] [Server thread/WARN]: 	at java.lang.Thread.run(Unknown Source)
+[16:16:02] [Server thread/WARN]: [RaspberryJuice] Error occured handling command
+[16:16:02] [Server thread/WARN]: java.lang.ArrayIndexOutOfBoundsException: 6
+[16:16:02] [Server thread/WARN]: 	at net.zhuoweizhang.raspberryjuice.RemoteSession.handleCommand(RemoteSession.java:171)
+[16:16:02] [Server thread/WARN]: 	at net.zhuoweizhang.raspberryjuice.RemoteSession.handleLine(RemoteSession.java:134)
+[16:16:02] [Server thread/WARN]: 	at net.zhuoweizhang.raspberryjuice.RemoteSession.tick(RemoteSession.java:114)
+[16:16:02] [Server thread/WARN]: 	at net.zhuoweizhang.raspberryjuice.RaspberryJuicePlugin$TickHandler.run(RaspberryJuicePlugin.java:206)
+[16:16:02] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_9_R2.scheduler.CraftTask.run(CraftTask.java:58)
+[16:16:02] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_9_R2.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:352)
+[16:16:02] [Server thread/WARN]: 	at net.minecraft.server.v1_9_R2.MinecraftServer.D(MinecraftServer.java:795)
+[16:16:02] [Server thread/WARN]: 	at net.minecraft.server.v1_9_R2.DedicatedServer.D(DedicatedServer.java:403)
+[16:16:02] [Server thread/WARN]: 	at net.minecraft.server.v1_9_R2.MinecraftServer.C(MinecraftServer.java:723)
+[16:16:02] [Server thread/WARN]: 	at net.minecraft.server.v1_9_R2.MinecraftServer.run(MinecraftServer.java:622)
+[16:16:02] [Server thread/WARN]: 	at java.lang.Thread.run(Unknown Source)
+[16:16:02] [Server thread/WARN]: [RaspberryJuice] Error occured handling command
+[16:16:02] [Server thread/WARN]: java.lang.ArrayIndexOutOfBoundsException: 6
+[16:16:02] [Server thread/WARN]: 	at net.zhuoweizhang.raspberryjuice.RemoteSession.handleCommand(RemoteSession.java:171)
+[16:16:02] [Server thread/WARN]: 	at net.zhuoweizhang.raspberryjuice.RemoteSession.handleLine(RemoteSession.java:134)
+[16:16:02] [Server thread/WARN]: 	at net.zhuoweizhang.raspberryjuice.RemoteSession.tick(RemoteSession.java:114)
+[16:16:02] [Server thread/WARN]: 	at net.zhuoweizhang.raspberryjuice.RaspberryJuicePlugin$TickHandler.run(RaspberryJuicePlugin.java:206)
+[16:16:02] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_9_R2.scheduler.CraftTask.run(CraftTask.java:58)
+[16:16:02] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_9_R2.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:352)
+[16:16:02] [Server thread/WARN]: 	at net.minecraft.server.v1_9_R2.MinecraftServer.D(MinecraftServer.java:795)
+[16:16:02] [Server thread/WARN]: 	at net.minecraft.server.v1_9_R2.DedicatedServer.D(DedicatedServer.java:403)
+[16:16:02] [Server thread/WARN]: 	at net.minecraft.server.v1_9_R2.MinecraftServer.C(MinecraftServer.java:723)
+[16:16:02] [Server thread/WARN]: 	at net.minecraft.server.v1_9_R2.MinecraftServer.run(MinecraftServer.java:622)
+[16:16:02] [Server thread/WARN]: 	at java.lang.Thread.run(Unknown Source)
+[16:16:02] [Server thread/WARN]: [RaspberryJuice] Error occured handling command
+[16:16:02] [Server thread/WARN]: java.lang.ArrayIndexOutOfBoundsException: 6
+[16:16:02] [Server thread/WARN]: 	at net.zhuoweizhang.raspberryjuice.RemoteSession.handleCommand(RemoteSession.java:171)
+[16:16:02] [Server thread/WARN]: 	at net.zhuoweizhang.raspberryjuice.RemoteSession.handleLine(RemoteSession.java:134)
+[16:16:02] [Server thread/WARN]: 	at net.zhuoweizhang.raspberryjuice.RemoteSession.tick(RemoteSession.java:114)
+[16:16:02] [Server thread/WARN]: 	at net.zhuoweizhang.raspberryjuice.RaspberryJuicePlugin$TickHandler.run(RaspberryJuicePlugin.java:206)
+[16:16:02] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_9_R2.scheduler.CraftTask.run(CraftTask.java:58)
+[16:16:02] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_9_R2.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:352)
+[16:16:02] [Server thread/WARN]: 	at net.minecraft.server.v1_9_R2.MinecraftServer.D(MinecraftServer.java:795)
+[16:16:02] [Server thread/WARN]: 	at net.minecraft.server.v1_9_R2.DedicatedServer.D(DedicatedServer.java:403)
+[16:16:02] [Server thread/WARN]: 	at net.minecraft.server.v1_9_R2.MinecraftServer.C(MinecraftServer.java:723)
+[16:16:02] [Server thread/WARN]: 	at net.minecraft.server.v1_9_R2.MinecraftServer.run(MinecraftServer.java:622)
+[16:16:02] [Server thread/WARN]: 	at java.lang.Thread.run(Unknown Source)
+[16:16:02] [Server thread/WARN]: [RaspberryJuice] Error occured handling command
+[16:16:02] [Server thread/WARN]: java.lang.ArrayIndexOutOfBoundsException: 6
+[16:16:02] [Server thread/WARN]: 	at net.zhuoweizhang.raspberryjuice.RemoteSession.handleCommand(RemoteSession.java:171)
+[16:16:02] [Server thread/WARN]: 	at net.zhuoweizhang.raspberryjuice.RemoteSession.handleLine(RemoteSession.java:134)
+[16:16:02] [Server thread/WARN]: 	at net.zhuoweizhang.raspberryjuice.RemoteSession.tick(RemoteSession.java:114)
+[16:16:02] [Server thread/WARN]: 	at net.zhuoweizhang.raspberryjuice.RaspberryJuicePlugin$TickHandler.run(RaspberryJuicePlugin.java:206)
+[16:16:02] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_9_R2.scheduler.CraftTask.run(CraftTask.java:58)
+[16:16:02] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_9_R2.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:352)
+[16:16:02] [Server thread/WARN]: 	at net.minecraft.server.v1_9_R2.MinecraftServer.D(MinecraftServer.java:795)
+[16:16:02] [Server thread/WARN]: 	at net.minecraft.server.v1_9_R2.DedicatedServer.D(DedicatedServer.java:403)
+[16:16:02] [Server thread/WARN]: 	at net.minecraft.server.v1_9_R2.MinecraftServer.C(MinecraftServer.java:723)
+[16:16:02] [Server thread/WARN]: 	at net.minecraft.server.v1_9_R2.MinecraftServer.run(MinecraftServer.java:622)
+[16:16:02] [Server thread/WARN]: 	at java.lang.Thread.run(Unknown Source)
+[16:16:02] [Server thread/WARN]: [RaspberryJuice] Error occured handling command
+[16:16:02] [Server thread/WARN]: java.lang.ArrayIndexOutOfBoundsException: 6
+[16:16:02] [Server thread/WARN]: 	at net.zhuoweizhang.raspberryjuice.RemoteSession.handleCommand(RemoteSession.java:171)
+[16:16:02] [Server thread/WARN]: 	at net.zhuoweizhang.raspberryjuice.RemoteSession.handleLine(RemoteSession.java:134)
+[16:16:02] [Server thread/WARN]: 	at net.zhuoweizhang.raspberryjuice.RemoteSession.tick(RemoteSession.java:114)
+[16:16:02] [Server thread/WARN]: 	at net.zhuoweizhang.raspberryjuice.RaspberryJuicePlugin$TickHandler.run(RaspberryJuicePlugin.java:206)
+[16:16:02] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_9_R2.scheduler.CraftTask.run(CraftTask.java:58)
+[16:16:02] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_9_R2.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:352)
+[16:16:02] [Server thread/WARN]: 	at net.minecraft.server.v1_9_R2.MinecraftServer.D(MinecraftServer.java:795)
+[16:16:02] [Server thread/WARN]: 	at net.minecraft.server.v1_9_R2.DedicatedServer.D(DedicatedServer.java:403)
+[16:16:02] [Server thread/WARN]: 	at net.minecraft.server.v1_9_R2.MinecraftServer.C(MinecraftServer.java:723)
+[16:16:02] [Server thread/WARN]: 	at net.minecraft.server.v1_9_R2.MinecraftServer.run(MinecraftServer.java:622)
+[16:16:02] [Server thread/WARN]: 	at java.lang.Thread.run(Unknown Source)
+[16:16:02] [Server thread/WARN]: [RaspberryJuice] Error occured handling command
+[16:16:02] [Server thread/WARN]: java.lang.ArrayIndexOutOfBoundsException: 6
+[16:16:02] [Server thread/WARN]: 	at net.zhuoweizhang.raspberryjuice.RemoteSession.handleCommand(RemoteSession.java:171)
+[16:16:02] [Server thread/WARN]: 	at net.zhuoweizhang.raspberryjuice.RemoteSession.handleLine(RemoteSession.java:134)
+[16:16:02] [Server thread/WARN]: 	at net.zhuoweizhang.raspberryjuice.RemoteSession.tick(RemoteSession.java:114)
+[16:16:02] [Server thread/WARN]: 	at net.zhuoweizhang.raspberryjuice.RaspberryJuicePlugin$TickHandler.run(RaspberryJuicePlugin.java:206)
+[16:16:02] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_9_R2.scheduler.CraftTask.run(CraftTask.java:58)
+[16:16:02] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_9_R2.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:352)
+[16:16:02] [Server thread/WARN]: 	at net.minecraft.server.v1_9_R2.MinecraftServer.D(MinecraftServer.java:795)
+[16:16:02] [Server thread/WARN]: 	at net.minecraft.server.v1_9_R2.DedicatedServer.D(DedicatedServer.java:403)
+[16:16:02] [Server thread/WARN]: 	at net.minecraft.server.v1_9_R2.MinecraftServer.C(MinecraftServer.java:723)
+[16:16:02] [Server thread/WARN]: 	at net.minecraft.server.v1_9_R2.MinecraftServer.run(MinecraftServer.java:622)
+[16:16:02] [Server thread/WARN]: 	at java.lang.Thread.run(Unknown Source)
+[16:16:02] [Server thread/WARN]: [RaspberryJuice] Error occured handling command
+[16:16:02] [Server thread/WARN]: java.lang.ArrayIndexOutOfBoundsException: 6
+[16:16:02] [Server thread/WARN]: 	at net.zhuoweizhang.raspberryjuice.RemoteSession.handleCommand(RemoteSession.java:171)
+[16:16:02] [Server thread/WARN]: 	at net.zhuoweizhang.raspberryjuice.RemoteSession.handleLine(RemoteSession.java:134)
+[16:16:02] [Server thread/WARN]: 	at net.zhuoweizhang.raspberryjuice.RemoteSession.tick(RemoteSession.java:114)
+[16:16:02] [Server thread/WARN]: 	at net.zhuoweizhang.raspberryjuice.RaspberryJuicePlugin$TickHandler.run(RaspberryJuicePlugin.java:206)
+[16:16:02] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_9_R2.scheduler.CraftTask.run(CraftTask.java:58)
+[16:16:02] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_9_R2.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:352)
+[16:16:02] [Server thread/WARN]: 	at net.minecraft.server.v1_9_R2.MinecraftServer.D(MinecraftServer.java:795)
+[16:16:02] [Server thread/WARN]: 	at net.minecraft.server.v1_9_R2.DedicatedServer.D(DedicatedServer.java:403)
+[16:16:02] [Server thread/WARN]: 	at net.minecraft.server.v1_9_R2.MinecraftServer.C(MinecraftServer.java:723)
+[16:16:02] [Server thread/WARN]: 	at net.minecraft.server.v1_9_R2.MinecraftServer.run(MinecraftServer.java:622)
+[16:16:02] [Server thread/WARN]: 	at java.lang.Thread.run(Unknown Source)
+[16:16:02] [Server thread/WARN]: [RaspberryJuice] Error occured handling command
+[16:16:02] [Server thread/WARN]: java.lang.ArrayIndexOutOfBoundsException: 6
+[16:16:02] [Server thread/WARN]: 	at net.zhuoweizhang.raspberryjuice.RemoteSession.handleCommand(RemoteSession.java:171)
+[16:16:02] [Server thread/WARN]: 	at net.zhuoweizhang.raspberryjuice.RemoteSession.handleLine(RemoteSession.java:134)
+[16:16:02] [Server thread/WARN]: 	at net.zhuoweizhang.raspberryjuice.RemoteSession.tick(RemoteSession.java:114)
+[16:16:02] [Server thread/WARN]: 	at net.zhuoweizhang.raspberryjuice.RaspberryJuicePlugin$TickHandler.run(RaspberryJuicePlugin.java:206)
+[16:16:02] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_9_R2.scheduler.CraftTask.run(CraftTask.java:58)
+[16:16:02] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_9_R2.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:352)
+[16:16:02] [Server thread/WARN]: 	at net.minecraft.server.v1_9_R2.MinecraftServer.D(MinecraftServer.java:795)
+[16:16:02] [Server thread/WARN]: 	at net.minecraft.server.v1_9_R2.DedicatedServer.D(DedicatedServer.java:403)
+[16:16:02] [Server thread/WARN]: 	at net.minecraft.server.v1_9_R2.MinecraftServer.C(MinecraftServer.java:723)
+[16:16:02] [Server thread/WARN]: 	at net.minecraft.server.v1_9_R2.MinecraftServer.run(MinecraftServer.java:622)
+[16:16:02] [Server thread/WARN]: 	at java.lang.Thread.run(Unknown Source)
+[16:16:02] [Server thread/WARN]: [RaspberryJuice] Error occured handling command
+[16:16:02] [Server thread/WARN]: java.lang.ArrayIndexOutOfBoundsException: 6
+[16:16:02] [Server thread/WARN]: 	at net.zhuoweizhang.raspberryjuice.RemoteSession.handleCommand(RemoteSession.java:171)
+[16:16:02] [Server thread/WARN]: 	at net.zhuoweizhang.raspberryjuice.RemoteSession.handleLine(RemoteSession.java:134)
+[16:16:02] [Server thread/WARN]: 	at net.zhuoweizhang.raspberryjuice.RemoteSession.tick(RemoteSession.java:114)
+[16:16:02] [Server thread/WARN]: 	at net.zhuoweizhang.raspberryjuice.RaspberryJuicePlugin$TickHandler.run(RaspberryJuicePlugin.java:206)
+[16:16:02] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_9_R2.scheduler.CraftTask.run(CraftTask.java:58)
+[16:16:02] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_9_R2.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:352)
+[16:16:02] [Server thread/WARN]: 	at net.minecraft.server.v1_9_R2.MinecraftServer.D(MinecraftServer.java:795)
+[16:16:02] [Server thread/WARN]: 	at net.minecraft.server.v1_9_R2.DedicatedServer.D(DedicatedServer.java:403)
+[16:16:02] [Server thread/WARN]: 	at net.minecraft.server.v1_9_R2.MinecraftServer.C(MinecraftServer.java:723)
+[16:16:02] [Server thread/WARN]: 	at net.minecraft.server.v1_9_R2.MinecraftServer.run(MinecraftServer.java:622)
+[16:16:02] [Server thread/WARN]: 	at java.lang.Thread.run(Unknown Source)
+[16:16:02] [Server thread/WARN]: [RaspberryJuice] Error occured handling command
+[16:16:02] [Server thread/WARN]: java.lang.ArrayIndexOutOfBoundsException: 6
+[16:16:02] [Server thread/WARN]: 	at net.zhuoweizhang.raspberryjuice.RemoteSession.handleCommand(RemoteSession.java:171)
+[16:16:02] [Server thread/WARN]: 	at net.zhuoweizhang.raspberryjuice.RemoteSession.handleLine(RemoteSession.java:134)
+[16:16:02] [Server thread/WARN]: 	at net.zhuoweizhang.raspberryjuice.RemoteSession.tick(RemoteSession.java:114)
+[16:16:02] [Server thread/WARN]: 	at net.zhuoweizhang.raspberryjuice.RaspberryJuicePlugin$TickHandler.run(RaspberryJuicePlugin.java:206)
+[16:16:02] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_9_R2.scheduler.CraftTask.run(CraftTask.java:58)
+[16:16:02] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_9_R2.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:352)
+[16:16:02] [Server thread/WARN]: 	at net.minecraft.server.v1_9_R2.MinecraftServer.D(MinecraftServer.java:795)
+[16:16:02] [Server thread/WARN]: 	at net.minecraft.server.v1_9_R2.DedicatedServer.D(DedicatedServer.java:403)
+[16:16:02] [Server thread/WARN]: 	at net.minecraft.server.v1_9_R2.MinecraftServer.C(MinecraftServer.java:723)
+[16:16:02] [Server thread/WARN]: 	at net.minecraft.server.v1_9_R2.MinecraftServer.run(MinecraftServer.java:622)
+[16:16:02] [Server thread/WARN]: 	at java.lang.Thread.run(Unknown Source)
+[16:16:02] [Server thread/WARN]: [RaspberryJuice] Error occured handling command
+[16:16:02] [Server thread/WARN]: java.lang.ArrayIndexOutOfBoundsException: 6
+[16:16:02] [Server thread/WARN]: 	at net.zhuoweizhang.raspberryjuice.RemoteSession.handleCommand(RemoteSession.java:171)
+[16:16:02] [Server thread/WARN]: 	at net.zhuoweizhang.raspberryjuice.RemoteSession.handleLine(RemoteSession.java:134)
+[16:16:02] [Server thread/WARN]: 	at net.zhuoweizhang.raspberryjuice.RemoteSession.tick(RemoteSession.java:114)
+[16:16:02] [Server thread/WARN]: 	at net.zhuoweizhang.raspberryjuice.RaspberryJuicePlugin$TickHandler.run(RaspberryJuicePlugin.java:206)
+[16:16:02] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_9_R2.scheduler.CraftTask.run(CraftTask.java:58)
+[16:16:02] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_9_R2.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:352)
+[16:16:02] [Server thread/WARN]: 	at net.minecraft.server.v1_9_R2.MinecraftServer.D(MinecraftServer.java:795)
+[16:16:02] [Server thread/WARN]: 	at net.minecraft.server.v1_9_R2.DedicatedServer.D(DedicatedServer.java:403)
+[16:16:02] [Server thread/WARN]: 	at net.minecraft.server.v1_9_R2.MinecraftServer.C(MinecraftServer.java:723)
+[16:16:02] [Server thread/WARN]: 	at net.minecraft.server.v1_9_R2.MinecraftServer.run(MinecraftServer.java:622)
+[16:16:02] [Server thread/WARN]: 	at java.lang.Thread.run(Unknown Source)
+[16:16:02] [Server thread/WARN]: [RaspberryJuice] Error occured handling command
+[16:16:02] [Server thread/WARN]: java.lang.ArrayIndexOutOfBoundsException: 6
+[16:16:02] [Server thread/WARN]: 	at net.zhuoweizhang.raspberryjuice.RemoteSession.handleCommand(RemoteSession.java:171)
+[16:16:02] [Server thread/WARN]: 	at net.zhuoweizhang.raspberryjuice.RemoteSession.handleLine(RemoteSession.java:134)
+[16:16:02] [Server thread/WARN]: 	at net.zhuoweizhang.raspberryjuice.RemoteSession.tick(RemoteSession.java:114)
+[16:16:02] [Server thread/WARN]: 	at net.zhuoweizhang.raspberryjuice.RaspberryJuicePlugin$TickHandler.run(RaspberryJuicePlugin.java:206)
+[16:16:02] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_9_R2.scheduler.CraftTask.run(CraftTask.java:58)
+[16:16:02] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_9_R2.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:352)
+[16:16:02] [Server thread/WARN]: 	at net.minecraft.server.v1_9_R2.MinecraftServer.D(MinecraftServer.java:795)
+[16:16:02] [Server thread/WARN]: 	at net.minecraft.server.v1_9_R2.DedicatedServer.D(DedicatedServer.java:403)
+[16:16:02] [Server thread/WARN]: 	at net.minecraft.server.v1_9_R2.MinecraftServer.C(MinecraftServer.java:723)
+[16:16:02] [Server thread/WARN]: 	at net.minecraft.server.v1_9_R2.MinecraftServer.run(MinecraftServer.java:622)
+[16:16:02] [Server thread/WARN]: 	at java.lang.Thread.run(Unknown Source)
+[16:16:02] [Server thread/WARN]: [RaspberryJuice] Error occured handling command
+[16:16:02] [Server thread/WARN]: java.lang.ArrayIndexOutOfBoundsException: 6
+[16:16:02] [Server thread/WARN]: 	at net.zhuoweizhang.raspberryjuice.RemoteSession.handleCommand(RemoteSession.java:171)
+[16:16:02] [Server thread/WARN]: 	at net.zhuoweizhang.raspberryjuice.RemoteSession.handleLine(RemoteSession.java:134)
+[16:16:02] [Server thread/WARN]: 	at net.zhuoweizhang.raspberryjuice.RemoteSession.tick(RemoteSession.java:114)
+[16:16:02] [Server thread/WARN]: 	at net.zhuoweizhang.raspberryjuice.RaspberryJuicePlugin$TickHandler.run(RaspberryJuicePlugin.java:206)
+[16:16:02] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_9_R2.scheduler.CraftTask.run(CraftTask.java:58)
+[16:16:02] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_9_R2.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:352)
+[16:16:02] [Server thread/WARN]: 	at net.minecraft.server.v1_9_R2.MinecraftServer.D(MinecraftServer.java:795)
+[16:16:02] [Server thread/WARN]: 	at net.minecraft.server.v1_9_R2.DedicatedServer.D(DedicatedServer.java:403)
+[16:16:02] [Server thread/WARN]: 	at net.minecraft.server.v1_9_R2.MinecraftServer.C(MinecraftServer.java:723)
+[16:16:02] [Server thread/WARN]: 	at net.minecraft.server.v1_9_R2.MinecraftServer.run(MinecraftServer.java:622)
+[16:16:02] [Server thread/WARN]: 	at java.lang.Thread.run(Unknown Source)
+[16:16:02] [Server thread/WARN]: [RaspberryJuice] Error occured handling command
+[16:16:02] [Server thread/WARN]: java.lang.ArrayIndexOutOfBoundsException: 6
+[16:16:02] [Server thread/WARN]: 	at net.zhuoweizhang.raspberryjuice.RemoteSession.handleCommand(RemoteSession.java:171)
+[16:16:02] [Server thread/WARN]: 	at net.zhuoweizhang.raspberryjuice.RemoteSession.handleLine(RemoteSession.java:134)
+[16:16:02] [Server thread/WARN]: 	at net.zhuoweizhang.raspberryjuice.RemoteSession.tick(RemoteSession.java:114)
+[16:16:02] [Server thread/WARN]: 	at net.zhuoweizhang.raspberryjuice.RaspberryJuicePlugin$TickHandler.run(RaspberryJuicePlugin.java:206)
+[16:16:02] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_9_R2.scheduler.CraftTask.run(CraftTask.java:58)
+[16:16:02] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_9_R2.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:352)
+[16:16:02] [Server thread/WARN]: 	at net.minecraft.server.v1_9_R2.MinecraftServer.D(MinecraftServer.java:795)
+[16:16:02] [Server thread/WARN]: 	at net.minecraft.server.v1_9_R2.DedicatedServer.D(DedicatedServer.java:403)
+[16:16:02] [Server thread/WARN]: 	at net.minecraft.server.v1_9_R2.MinecraftServer.C(MinecraftServer.java:723)
+[16:16:02] [Server thread/WARN]: 	at net.minecraft.server.v1_9_R2.MinecraftServer.run(MinecraftServer.java:622)
+[16:16:02] [Server thread/WARN]: 	at java.lang.Thread.run(Unknown Source)
+[16:16:03] [Server thread/WARN]: [RaspberryJuice] Error occured handling command
+[16:16:03] [Server thread/WARN]: java.lang.ArrayIndexOutOfBoundsException: 6
+[16:16:03] [Server thread/WARN]: 	at net.zhuoweizhang.raspberryjuice.RemoteSession.handleCommand(RemoteSession.java:171)
+[16:16:03] [Server thread/WARN]: 	at net.zhuoweizhang.raspberryjuice.RemoteSession.handleLine(RemoteSession.java:134)
+[16:16:03] [Server thread/WARN]: 	at net.zhuoweizhang.raspberryjuice.RemoteSession.tick(RemoteSession.java:114)
+[16:16:03] [Server thread/WARN]: 	at net.zhuoweizhang.raspberryjuice.RaspberryJuicePlugin$TickHandler.run(RaspberryJuicePlugin.java:206)
+[16:16:03] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_9_R2.scheduler.CraftTask.run(CraftTask.java:58)
+[16:16:03] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_9_R2.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:352)
+[16:16:03] [Server thread/WARN]: 	at net.minecraft.server.v1_9_R2.MinecraftServer.D(MinecraftServer.java:795)
+[16:16:03] [Server thread/WARN]: 	at net.minecraft.server.v1_9_R2.DedicatedServer.D(DedicatedServer.java:403)
+[16:16:03] [Server thread/WARN]: 	at net.minecraft.server.v1_9_R2.MinecraftServer.C(MinecraftServer.java:723)
+[16:16:03] [Server thread/WARN]: 	at net.minecraft.server.v1_9_R2.MinecraftServer.run(MinecraftServer.java:622)
+[16:16:03] [Server thread/WARN]: 	at java.lang.Thread.run(Unknown Source)
+[16:16:03] [Server thread/WARN]: [RaspberryJuice] Error occured handling command
+[16:16:03] [Server thread/WARN]: java.lang.ArrayIndexOutOfBoundsException: 6
+[16:16:03] [Server thread/WARN]: 	at net.zhuoweizhang.raspberryjuice.RemoteSession.handleCommand(RemoteSession.java:171)
+[16:16:03] [Server thread/WARN]: 	at net.zhuoweizhang.raspberryjuice.RemoteSession.handleLine(RemoteSession.java:134)
+[16:16:03] [Server thread/WARN]: 	at net.zhuoweizhang.raspberryjuice.RemoteSession.tick(RemoteSession.java:114)
+[16:16:03] [Server thread/WARN]: 	at net.zhuoweizhang.raspberryjuice.RaspberryJuicePlugin$TickHandler.run(RaspberryJuicePlugin.java:206)
+[16:16:03] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_9_R2.scheduler.CraftTask.run(CraftTask.java:58)
+[16:16:03] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_9_R2.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:352)
+[16:16:03] [Server thread/WARN]: 	at net.minecraft.server.v1_9_R2.MinecraftServer.D(MinecraftServer.java:795)
+[16:16:03] [Server thread/WARN]: 	at net.minecraft.server.v1_9_R2.DedicatedServer.D(DedicatedServer.java:403)
+[16:16:03] [Server thread/WARN]: 	at net.minecraft.server.v1_9_R2.MinecraftServer.C(MinecraftServer.java:723)
+[16:16:03] [Server thread/WARN]: 	at net.minecraft.server.v1_9_R2.MinecraftServer.run(MinecraftServer.java:622)
+[16:16:03] [Server thread/WARN]: 	at java.lang.Thread.run(Unknown Source)
+[16:16:03] [Server thread/WARN]: [RaspberryJuice] Error occured handling command
+[16:16:03] [Server thread/WARN]: java.lang.ArrayIndexOutOfBoundsException: 6
+[16:16:03] [Server thread/WARN]: 	at net.zhuoweizhang.raspberryjuice.RemoteSession.handleCommand(RemoteSession.java:171)
+[16:16:03] [Server thread/WARN]: 	at net.zhuoweizhang.raspberryjuice.RemoteSession.handleLine(RemoteSession.java:134)
+[16:16:03] [Server thread/WARN]: 	at net.zhuoweizhang.raspberryjuice.RemoteSession.tick(RemoteSession.java:114)
+[16:16:03] [Server thread/WARN]: 	at net.zhuoweizhang.raspberryjuice.RaspberryJuicePlugin$TickHandler.run(RaspberryJuicePlugin.java:206)
+[16:16:03] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_9_R2.scheduler.CraftTask.run(CraftTask.java:58)
+[16:16:03] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_9_R2.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:352)
+[16:16:03] [Server thread/WARN]: 	at net.minecraft.server.v1_9_R2.MinecraftServer.D(MinecraftServer.java:795)
+[16:16:03] [Server thread/WARN]: 	at net.minecraft.server.v1_9_R2.DedicatedServer.D(DedicatedServer.java:403)
+[16:16:03] [Server thread/WARN]: 	at net.minecraft.server.v1_9_R2.MinecraftServer.C(MinecraftServer.java:723)
+[16:16:03] [Server thread/WARN]: 	at net.minecraft.server.v1_9_R2.MinecraftServer.run(MinecraftServer.java:622)
+[16:16:03] [Server thread/WARN]: 	at java.lang.Thread.run(Unknown Source)
+[16:16:03] [Server thread/WARN]: [RaspberryJuice] Error occured handling command
+[16:16:03] [Server thread/WARN]: java.lang.ArrayIndexOutOfBoundsException: 6
+[16:16:03] [Server thread/WARN]: 	at net.zhuoweizhang.raspberryjuice.RemoteSession.handleCommand(RemoteSession.java:171)
+[16:16:03] [Server thread/WARN]: 	at net.zhuoweizhang.raspberryjuice.RemoteSession.handleLine(RemoteSession.java:134)
+[16:16:03] [Server thread/WARN]: 	at net.zhuoweizhang.raspberryjuice.RemoteSession.tick(RemoteSession.java:114)
+[16:16:03] [Server thread/WARN]: 	at net.zhuoweizhang.raspberryjuice.RaspberryJuicePlugin$TickHandler.run(RaspberryJuicePlugin.java:206)
+[16:16:03] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_9_R2.scheduler.CraftTask.run(CraftTask.java:58)
+[16:16:03] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_9_R2.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:352)
+[16:16:03] [Server thread/WARN]: 	at net.minecraft.server.v1_9_R2.MinecraftServer.D(MinecraftServer.java:795)
+[16:16:03] [Server thread/WARN]: 	at net.minecraft.server.v1_9_R2.DedicatedServer.D(DedicatedServer.java:403)
+[16:16:03] [Server thread/WARN]: 	at net.minecraft.server.v1_9_R2.MinecraftServer.C(MinecraftServer.java:723)
+[16:16:03] [Server thread/WARN]: 	at net.minecraft.server.v1_9_R2.MinecraftServer.run(MinecraftServer.java:622)
+[16:16:03] [Server thread/WARN]: 	at java.lang.Thread.run(Unknown Source)
+[16:16:03] [Server thread/WARN]: [RaspberryJuice] Error occured handling command
+[16:16:03] [Server thread/WARN]: java.lang.ArrayIndexOutOfBoundsException: 6
+[16:16:03] [Server thread/WARN]: 	at net.zhuoweizhang.raspberryjuice.RemoteSession.handleCommand(RemoteSession.java:171)
+[16:16:03] [Server thread/WARN]: 	at net.zhuoweizhang.raspberryjuice.RemoteSession.handleLine(RemoteSession.java:134)
+[16:16:03] [Server thread/WARN]: 	at net.zhuoweizhang.raspberryjuice.RemoteSession.tick(RemoteSession.java:114)
+[16:16:03] [Server thread/WARN]: 	at net.zhuoweizhang.raspberryjuice.RaspberryJuicePlugin$TickHandler.run(RaspberryJuicePlugin.java:206)
+[16:16:03] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_9_R2.scheduler.CraftTask.run(CraftTask.java:58)
+[16:16:03] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_9_R2.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:352)
+[16:16:03] [Server thread/WARN]: 	at net.minecraft.server.v1_9_R2.MinecraftServer.D(MinecraftServer.java:795)
+[16:16:03] [Server thread/WARN]: 	at net.minecraft.server.v1_9_R2.DedicatedServer.D(DedicatedServer.java:403)
+[16:16:03] [Server thread/WARN]: 	at net.minecraft.server.v1_9_R2.MinecraftServer.C(MinecraftServer.java:723)
+[16:16:03] [Server thread/WARN]: 	at net.minecraft.server.v1_9_R2.MinecraftServer.run(MinecraftServer.java:622)
+[16:16:03] [Server thread/WARN]: 	at java.lang.Thread.run(Unknown Source)
+[16:16:03] [Server thread/WARN]: [RaspberryJuice] Error occured handling command
+[16:16:03] [Server thread/WARN]: java.lang.ArrayIndexOutOfBoundsException: 6
+[16:16:03] [Server thread/WARN]: 	at net.zhuoweizhang.raspberryjuice.RemoteSession.handleCommand(RemoteSession.java:171)
+[16:16:03] [Server thread/WARN]: 	at net.zhuoweizhang.raspberryjuice.RemoteSession.handleLine(RemoteSession.java:134)
+[16:16:03] [Server thread/WARN]: 	at net.zhuoweizhang.raspberryjuice.RemoteSession.tick(RemoteSession.java:114)
+[16:16:03] [Server thread/WARN]: 	at net.zhuoweizhang.raspberryjuice.RaspberryJuicePlugin$TickHandler.run(RaspberryJuicePlugin.java:206)
+[16:16:03] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_9_R2.scheduler.CraftTask.run(CraftTask.java:58)
+[16:16:03] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_9_R2.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:352)
+[16:16:03] [Server thread/WARN]: 	at net.minecraft.server.v1_9_R2.MinecraftServer.D(MinecraftServer.java:795)
+[16:16:03] [Server thread/WARN]: 	at net.minecraft.server.v1_9_R2.DedicatedServer.D(DedicatedServer.java:403)
+[16:16:03] [Server thread/WARN]: 	at net.minecraft.server.v1_9_R2.MinecraftServer.C(MinecraftServer.java:723)
+[16:16:03] [Server thread/WARN]: 	at net.minecraft.server.v1_9_R2.MinecraftServer.run(MinecraftServer.java:622)
+[16:16:03] [Server thread/WARN]: 	at java.lang.Thread.run(Unknown Source)
+[16:16:03] [Server thread/WARN]: [RaspberryJuice] Error occured handling command
+[16:16:03] [Server thread/WARN]: java.lang.ArrayIndexOutOfBoundsException: 6
+[16:16:03] [Server thread/WARN]: 	at net.zhuoweizhang.raspberryjuice.RemoteSession.handleCommand(RemoteSession.java:171)
+[16:16:03] [Server thread/WARN]: 	at net.zhuoweizhang.raspberryjuice.RemoteSession.handleLine(RemoteSession.java:134)
+[16:16:03] [Server thread/WARN]: 	at net.zhuoweizhang.raspberryjuice.RemoteSession.tick(RemoteSession.java:114)
+[16:16:03] [Server thread/WARN]: 	at net.zhuoweizhang.raspberryjuice.RaspberryJuicePlugin$TickHandler.run(RaspberryJuicePlugin.java:206)
+[16:16:03] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_9_R2.scheduler.CraftTask.run(CraftTask.java:58)
+[16:16:03] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_9_R2.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:352)
+[16:16:03] [Server thread/WARN]: 	at net.minecraft.server.v1_9_R2.MinecraftServer.D(MinecraftServer.java:795)
+[16:16:03] [Server thread/WARN]: 	at net.minecraft.server.v1_9_R2.DedicatedServer.D(DedicatedServer.java:403)
+[16:16:03] [Server thread/WARN]: 	at net.minecraft.server.v1_9_R2.MinecraftServer.C(MinecraftServer.java:723)
+[16:16:03] [Server thread/WARN]: 	at net.minecraft.server.v1_9_R2.MinecraftServer.run(MinecraftServer.java:622)
+[16:16:03] [Server thread/WARN]: 	at java.lang.Thread.run(Unknown Source)
+[16:16:03] [Server thread/WARN]: [RaspberryJuice] Error occured handling command
+[16:16:03] [Server thread/WARN]: java.lang.ArrayIndexOutOfBoundsException: 6
+[16:16:03] [Server thread/WARN]: 	at net.zhuoweizhang.raspberryjuice.RemoteSession.handleCommand(RemoteSession.java:171)
+[16:16:03] [Server thread/WARN]: 	at net.zhuoweizhang.raspberryjuice.RemoteSession.handleLine(RemoteSession.java:134)
+[16:16:03] [Server thread/WARN]: 	at net.zhuoweizhang.raspberryjuice.RemoteSession.tick(RemoteSession.java:114)
+[16:16:03] [Server thread/WARN]: 	at net.zhuoweizhang.raspberryjuice.RaspberryJuicePlugin$TickHandler.run(RaspberryJuicePlugin.java:206)
+[16:16:03] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_9_R2.scheduler.CraftTask.run(CraftTask.java:58)
+[16:16:03] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_9_R2.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:352)
+[16:16:03] [Server thread/WARN]: 	at net.minecraft.server.v1_9_R2.MinecraftServer.D(MinecraftServer.java:795)
+[16:16:03] [Server thread/WARN]: 	at net.minecraft.server.v1_9_R2.DedicatedServer.D(DedicatedServer.java:403)
+[16:16:03] [Server thread/WARN]: 	at net.minecraft.server.v1_9_R2.MinecraftServer.C(MinecraftServer.java:723)
+[16:16:03] [Server thread/WARN]: 	at net.minecraft.server.v1_9_R2.MinecraftServer.run(MinecraftServer.java:622)
+[16:16:03] [Server thread/WARN]: 	at java.lang.Thread.run(Unknown Source)
+[16:16:03] [Server thread/WARN]: [RaspberryJuice] Error occured handling command
+[16:16:03] [Server thread/WARN]: java.lang.ArrayIndexOutOfBoundsException: 6
+[16:16:03] [Server thread/WARN]: 	at net.zhuoweizhang.raspberryjuice.RemoteSession.handleCommand(RemoteSession.java:171)
+[16:16:03] [Server thread/WARN]: 	at net.zhuoweizhang.raspberryjuice.RemoteSession.handleLine(RemoteSession.java:134)
+[16:16:03] [Server thread/WARN]: 	at net.zhuoweizhang.raspberryjuice.RemoteSession.tick(RemoteSession.java:114)
+[16:16:03] [Server thread/WARN]: 	at net.zhuoweizhang.raspberryjuice.RaspberryJuicePlugin$TickHandler.run(RaspberryJuicePlugin.java:206)
+[16:16:03] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_9_R2.scheduler.CraftTask.run(CraftTask.java:58)
+[16:16:03] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_9_R2.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:352)
+[16:16:03] [Server thread/WARN]: 	at net.minecraft.server.v1_9_R2.MinecraftServer.D(MinecraftServer.java:795)
+[16:16:03] [Server thread/WARN]: 	at net.minecraft.server.v1_9_R2.DedicatedServer.D(DedicatedServer.java:403)
+[16:16:03] [Server thread/WARN]: 	at net.minecraft.server.v1_9_R2.MinecraftServer.C(MinecraftServer.java:723)
+[16:16:03] [Server thread/WARN]: 	at net.minecraft.server.v1_9_R2.MinecraftServer.run(MinecraftServer.java:622)
+[16:16:03] [Server thread/WARN]: 	at java.lang.Thread.run(Unknown Source)
+[16:16:03] [Server thread/WARN]: [RaspberryJuice] Error occured handling command
+[16:16:03] [Server thread/WARN]: java.lang.ArrayIndexOutOfBoundsException: 6
+[16:16:03] [Server thread/WARN]: 	at net.zhuoweizhang.raspberryjuice.RemoteSession.handleCommand(RemoteSession.java:171)
+[16:16:03] [Server thread/WARN]: 	at net.zhuoweizhang.raspberryjuice.RemoteSession.handleLine(RemoteSession.java:134)
+[16:16:03] [Server thread/WARN]: 	at net.zhuoweizhang.raspberryjuice.RemoteSession.tick(RemoteSession.java:114)
+[16:16:03] [Server thread/WARN]: 	at net.zhuoweizhang.raspberryjuice.RaspberryJuicePlugin$TickHandler.run(RaspberryJuicePlugin.java:206)
+[16:16:03] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_9_R2.scheduler.CraftTask.run(CraftTask.java:58)
+[16:16:03] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_9_R2.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:352)
+[16:16:03] [Server thread/WARN]: 	at net.minecraft.server.v1_9_R2.MinecraftServer.D(MinecraftServer.java:795)
+[16:16:03] [Server thread/WARN]: 	at net.minecraft.server.v1_9_R2.DedicatedServer.D(DedicatedServer.java:403)
+[16:16:03] [Server thread/WARN]: 	at net.minecraft.server.v1_9_R2.MinecraftServer.C(MinecraftServer.java:723)
+[16:16:03] [Server thread/WARN]: 	at net.minecraft.server.v1_9_R2.MinecraftServer.run(MinecraftServer.java:622)
+[16:16:03] [Server thread/WARN]: 	at java.lang.Thread.run(Unknown Source)
+[16:16:03] [Server thread/WARN]: [RaspberryJuice] Error occured handling command
+[16:16:03] [Server thread/WARN]: java.lang.ArrayIndexOutOfBoundsException: 6
+[16:16:03] [Server thread/WARN]: 	at net.zhuoweizhang.raspberryjuice.RemoteSession.handleCommand(RemoteSession.java:171)
+[16:16:03] [Server thread/WARN]: 	at net.zhuoweizhang.raspberryjuice.RemoteSession.handleLine(RemoteSession.java:134)
+[16:16:03] [Server thread/WARN]: 	at net.zhuoweizhang.raspberryjuice.RemoteSession.tick(RemoteSession.java:114)
+[16:16:03] [Server thread/WARN]: 	at net.zhuoweizhang.raspberryjuice.RaspberryJuicePlugin$TickHandler.run(RaspberryJuicePlugin.java:206)
+[16:16:03] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_9_R2.scheduler.CraftTask.run(CraftTask.java:58)
+[16:16:03] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_9_R2.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:352)
+[16:16:03] [Server thread/WARN]: 	at net.minecraft.server.v1_9_R2.MinecraftServer.D(MinecraftServer.java:795)
+[16:16:03] [Server thread/WARN]: 	at net.minecraft.server.v1_9_R2.DedicatedServer.D(DedicatedServer.java:403)
+[16:16:03] [Server thread/WARN]: 	at net.minecraft.server.v1_9_R2.MinecraftServer.C(MinecraftServer.java:723)
+[16:16:03] [Server thread/WARN]: 	at net.minecraft.server.v1_9_R2.MinecraftServer.run(MinecraftServer.java:622)
+[16:16:03] [Server thread/WARN]: 	at java.lang.Thread.run(Unknown Source)
+[16:16:03] [Server thread/WARN]: [RaspberryJuice] Error occured handling command
+[16:16:03] [Server thread/WARN]: java.lang.ArrayIndexOutOfBoundsException: 6
+[16:16:03] [Server thread/WARN]: 	at net.zhuoweizhang.raspberryjuice.RemoteSession.handleCommand(RemoteSession.java:171)
+[16:16:03] [Server thread/WARN]: 	at net.zhuoweizhang.raspberryjuice.RemoteSession.handleLine(RemoteSession.java:134)
+[16:16:03] [Server thread/WARN]: 	at net.zhuoweizhang.raspberryjuice.RemoteSession.tick(RemoteSession.java:114)
+[16:16:03] [Server thread/WARN]: 	at net.zhuoweizhang.raspberryjuice.RaspberryJuicePlugin$TickHandler.run(RaspberryJuicePlugin.java:206)
+[16:16:03] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_9_R2.scheduler.CraftTask.run(CraftTask.java:58)
+[16:16:03] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_9_R2.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:352)
+[16:16:03] [Server thread/WARN]: 	at net.minecraft.server.v1_9_R2.MinecraftServer.D(MinecraftServer.java:795)
+[16:16:03] [Server thread/WARN]: 	at net.minecraft.server.v1_9_R2.DedicatedServer.D(DedicatedServer.java:403)
+[16:16:03] [Server thread/WARN]: 	at net.minecraft.server.v1_9_R2.MinecraftServer.C(MinecraftServer.java:723)
+[16:16:03] [Server thread/WARN]: 	at net.minecraft.server.v1_9_R2.MinecraftServer.run(MinecraftServer.java:622)
+[16:16:03] [Server thread/WARN]: 	at java.lang.Thread.run(Unknown Source)
+[16:16:03] [Server thread/WARN]: [RaspberryJuice] Error occured handling command
+[16:16:03] [Server thread/WARN]: java.lang.ArrayIndexOutOfBoundsException: 6
+[16:16:03] [Server thread/WARN]: 	at net.zhuoweizhang.raspberryjuice.RemoteSession.handleCommand(RemoteSession.java:171)
+[16:16:03] [Server thread/WARN]: 	at net.zhuoweizhang.raspberryjuice.RemoteSession.handleLine(RemoteSession.java:134)
+[16:16:03] [Server thread/WARN]: 	at net.zhuoweizhang.raspberryjuice.RemoteSession.tick(RemoteSession.java:114)
+[16:16:03] [Server thread/WARN]: 	at net.zhuoweizhang.raspberryjuice.RaspberryJuicePlugin$TickHandler.run(RaspberryJuicePlugin.java:206)
+[16:16:03] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_9_R2.scheduler.CraftTask.run(CraftTask.java:58)
+[16:16:03] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_9_R2.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:352)
+[16:16:03] [Server thread/WARN]: 	at net.minecraft.server.v1_9_R2.MinecraftServer.D(MinecraftServer.java:795)
+[16:16:03] [Server thread/WARN]: 	at net.minecraft.server.v1_9_R2.DedicatedServer.D(DedicatedServer.java:403)
+[16:16:03] [Server thread/WARN]: 	at net.minecraft.server.v1_9_R2.MinecraftServer.C(MinecraftServer.java:723)
+[16:16:03] [Server thread/WARN]: 	at net.minecraft.server.v1_9_R2.MinecraftServer.run(MinecraftServer.java:622)
+[16:16:03] [Server thread/WARN]: 	at java.lang.Thread.run(Unknown Source)
+[16:16:03] [Server thread/WARN]: [RaspberryJuice] Error occured handling command
+[16:16:03] [Server thread/WARN]: java.lang.ArrayIndexOutOfBoundsException: 6
+[16:16:03] [Server thread/WARN]: 	at net.zhuoweizhang.raspberryjuice.RemoteSession.handleCommand(RemoteSession.java:171)
+[16:16:03] [Server thread/WARN]: 	at net.zhuoweizhang.raspberryjuice.RemoteSession.handleLine(RemoteSession.java:134)
+[16:16:03] [Server thread/WARN]: 	at net.zhuoweizhang.raspberryjuice.RemoteSession.tick(RemoteSession.java:114)
+[16:16:03] [Server thread/WARN]: 	at net.zhuoweizhang.raspberryjuice.RaspberryJuicePlugin$TickHandler.run(RaspberryJuicePlugin.java:206)
+[16:16:03] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_9_R2.scheduler.CraftTask.run(CraftTask.java:58)
+[16:16:03] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_9_R2.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:352)
+[16:16:03] [Server thread/WARN]: 	at net.minecraft.server.v1_9_R2.MinecraftServer.D(MinecraftServer.java:795)
+[16:16:03] [Server thread/WARN]: 	at net.minecraft.server.v1_9_R2.DedicatedServer.D(DedicatedServer.java:403)
+[16:16:03] [Server thread/WARN]: 	at net.minecraft.server.v1_9_R2.MinecraftServer.C(MinecraftServer.java:723)
+[16:16:03] [Server thread/WARN]: 	at net.minecraft.server.v1_9_R2.MinecraftServer.run(MinecraftServer.java:622)
+[16:16:03] [Server thread/WARN]: 	at java.lang.Thread.run(Unknown Source)
+[16:16:03] [Server thread/WARN]: [RaspberryJuice] Error occured handling command
+[16:16:03] [Server thread/WARN]: java.lang.ArrayIndexOutOfBoundsException: 6
+[16:16:03] [Server thread/WARN]: 	at net.zhuoweizhang.raspberryjuice.RemoteSession.handleCommand(RemoteSession.java:171)
+[16:16:03] [Server thread/WARN]: 	at net.zhuoweizhang.raspberryjuice.RemoteSession.handleLine(RemoteSession.java:134)
+[16:16:03] [Server thread/WARN]: 	at net.zhuoweizhang.raspberryjuice.RemoteSession.tick(RemoteSession.java:114)
+[16:16:03] [Server thread/WARN]: 	at net.zhuoweizhang.raspberryjuice.RaspberryJuicePlugin$TickHandler.run(RaspberryJuicePlugin.java:206)
+[16:16:03] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_9_R2.scheduler.CraftTask.run(CraftTask.java:58)
+[16:16:03] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_9_R2.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:352)
+[16:16:03] [Server thread/WARN]: 	at net.minecraft.server.v1_9_R2.MinecraftServer.D(MinecraftServer.java:795)
+[16:16:03] [Server thread/WARN]: 	at net.minecraft.server.v1_9_R2.DedicatedServer.D(DedicatedServer.java:403)
+[16:16:03] [Server thread/WARN]: 	at net.minecraft.server.v1_9_R2.MinecraftServer.C(MinecraftServer.java:723)
+[16:16:03] [Server thread/WARN]: 	at net.minecraft.server.v1_9_R2.MinecraftServer.run(MinecraftServer.java:622)
+[16:16:03] [Server thread/WARN]: 	at java.lang.Thread.run(Unknown Source)
+[16:16:03] [Server thread/WARN]: [RaspberryJuice] Error occured handling command
+[16:16:03] [Server thread/WARN]: java.lang.ArrayIndexOutOfBoundsException: 6
+[16:16:03] [Server thread/WARN]: 	at net.zhuoweizhang.raspberryjuice.RemoteSession.handleCommand(RemoteSession.java:171)
+[16:16:03] [Server thread/WARN]: 	at net.zhuoweizhang.raspberryjuice.RemoteSession.handleLine(RemoteSession.java:134)
+[16:16:03] [Server thread/WARN]: 	at net.zhuoweizhang.raspberryjuice.RemoteSession.tick(RemoteSession.java:114)
+[16:16:03] [Server thread/WARN]: 	at net.zhuoweizhang.raspberryjuice.RaspberryJuicePlugin$TickHandler.run(RaspberryJuicePlugin.java:206)
+[16:16:03] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_9_R2.scheduler.CraftTask.run(CraftTask.java:58)
+[16:16:03] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_9_R2.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:352)
+[16:16:03] [Server thread/WARN]: 	at net.minecraft.server.v1_9_R2.MinecraftServer.D(MinecraftServer.java:795)
+[16:16:03] [Server thread/WARN]: 	at net.minecraft.server.v1_9_R2.DedicatedServer.D(DedicatedServer.java:403)
+[16:16:03] [Server thread/WARN]: 	at net.minecraft.server.v1_9_R2.MinecraftServer.C(MinecraftServer.java:723)
+[16:16:03] [Server thread/WARN]: 	at net.minecraft.server.v1_9_R2.MinecraftServer.run(MinecraftServer.java:622)
+[16:16:03] [Server thread/WARN]: 	at java.lang.Thread.run(Unknown Source)
+[16:16:03] [Server thread/WARN]: [RaspberryJuice] Error occured handling command
+[16:16:03] [Server thread/WARN]: java.lang.ArrayIndexOutOfBoundsException: 6
+[16:16:03] [Server thread/WARN]: 	at net.zhuoweizhang.raspberryjuice.RemoteSession.handleCommand(RemoteSession.java:171)
+[16:16:03] [Server thread/WARN]: 	at net.zhuoweizhang.raspberryjuice.RemoteSession.handleLine(RemoteSession.java:134)
+[16:16:03] [Server thread/WARN]: 	at net.zhuoweizhang.raspberryjuice.RemoteSession.tick(RemoteSession.java:114)
+[16:16:03] [Server thread/WARN]: 	at net.zhuoweizhang.raspberryjuice.RaspberryJuicePlugin$TickHandler.run(RaspberryJuicePlugin.java:206)
+[16:16:03] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_9_R2.scheduler.CraftTask.run(CraftTask.java:58)
+[16:16:03] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_9_R2.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:352)
+[16:16:03] [Server thread/WARN]: 	at net.minecraft.server.v1_9_R2.MinecraftServer.D(MinecraftServer.java:795)
+[16:16:03] [Server thread/WARN]: 	at net.minecraft.server.v1_9_R2.DedicatedServer.D(DedicatedServer.java:403)
+[16:16:03] [Server thread/WARN]: 	at net.minecraft.server.v1_9_R2.MinecraftServer.C(MinecraftServer.java:723)
+[16:16:03] [Server thread/WARN]: 	at net.minecraft.server.v1_9_R2.MinecraftServer.run(MinecraftServer.java:622)
+[16:16:03] [Server thread/WARN]: 	at java.lang.Thread.run(Unknown Source)
+[16:16:03] [Server thread/WARN]: [RaspberryJuice] Error occured handling command
+[16:16:03] [Server thread/WARN]: java.lang.ArrayIndexOutOfBoundsException: 6
+[16:16:03] [Server thread/WARN]: 	at net.zhuoweizhang.raspberryjuice.RemoteSession.handleCommand(RemoteSession.java:171)
+[16:16:03] [Server thread/WARN]: 	at net.zhuoweizhang.raspberryjuice.RemoteSession.handleLine(RemoteSession.java:134)
+[16:16:03] [Server thread/WARN]: 	at net.zhuoweizhang.raspberryjuice.RemoteSession.tick(RemoteSession.java:114)
+[16:16:03] [Server thread/WARN]: 	at net.zhuoweizhang.raspberryjuice.RaspberryJuicePlugin$TickHandler.run(RaspberryJuicePlugin.java:206)
+[16:16:03] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_9_R2.scheduler.CraftTask.run(CraftTask.java:58)
+[16:16:03] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_9_R2.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:352)
+[16:16:03] [Server thread/WARN]: 	at net.minecraft.server.v1_9_R2.MinecraftServer.D(MinecraftServer.java:795)
+[16:16:03] [Server thread/WARN]: 	at net.minecraft.server.v1_9_R2.DedicatedServer.D(DedicatedServer.java:403)
+[16:16:03] [Server thread/WARN]: 	at net.minecraft.server.v1_9_R2.MinecraftServer.C(MinecraftServer.java:723)
+[16:16:03] [Server thread/WARN]: 	at net.minecraft.server.v1_9_R2.MinecraftServer.run(MinecraftServer.java:622)
+[16:16:03] [Server thread/WARN]: 	at java.lang.Thread.run(Unknown Source)
+[16:16:03] [Server thread/WARN]: [RaspberryJuice] Error occured handling command
+[16:16:03] [Server thread/WARN]: java.lang.ArrayIndexOutOfBoundsException: 6
+[16:16:03] [Server thread/WARN]: 	at net.zhuoweizhang.raspberryjuice.RemoteSession.handleCommand(RemoteSession.java:171)
+[16:16:03] [Server thread/WARN]: 	at net.zhuoweizhang.raspberryjuice.RemoteSession.handleLine(RemoteSession.java:134)
+[16:16:03] [Server thread/WARN]: 	at net.zhuoweizhang.raspberryjuice.RemoteSession.tick(RemoteSession.java:114)
+[16:16:03] [Server thread/WARN]: 	at net.zhuoweizhang.raspberryjuice.RaspberryJuicePlugin$TickHandler.run(RaspberryJuicePlugin.java:206)
+[16:16:03] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_9_R2.scheduler.CraftTask.run(CraftTask.java:58)
+[16:16:03] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_9_R2.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:352)
+[16:16:03] [Server thread/WARN]: 	at net.minecraft.server.v1_9_R2.MinecraftServer.D(MinecraftServer.java:795)
+[16:16:03] [Server thread/WARN]: 	at net.minecraft.server.v1_9_R2.DedicatedServer.D(DedicatedServer.java:403)
+[16:16:03] [Server thread/WARN]: 	at net.minecraft.server.v1_9_R2.MinecraftServer.C(MinecraftServer.java:723)
+[16:16:03] [Server thread/WARN]: 	at net.minecraft.server.v1_9_R2.MinecraftServer.run(MinecraftServer.java:622)
+[16:16:03] [Server thread/WARN]: 	at java.lang.Thread.run(Unknown Source)
+[16:16:03] [Server thread/WARN]: [RaspberryJuice] Error occured handling command
+[16:16:03] [Server thread/WARN]: java.lang.ArrayIndexOutOfBoundsException: 6
+[16:16:03] [Server thread/WARN]: 	at net.zhuoweizhang.raspberryjuice.RemoteSession.handleCommand(RemoteSession.java:171)
+[16:16:03] [Server thread/WARN]: 	at net.zhuoweizhang.raspberryjuice.RemoteSession.handleLine(RemoteSession.java:134)
+[16:16:03] [Server thread/WARN]: 	at net.zhuoweizhang.raspberryjuice.RemoteSession.tick(RemoteSession.java:114)
+[16:16:03] [Server thread/WARN]: 	at net.zhuoweizhang.raspberryjuice.RaspberryJuicePlugin$TickHandler.run(RaspberryJuicePlugin.java:206)
+[16:16:03] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_9_R2.scheduler.CraftTask.run(CraftTask.java:58)
+[16:16:03] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_9_R2.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:352)
+[16:16:03] [Server thread/WARN]: 	at net.minecraft.server.v1_9_R2.MinecraftServer.D(MinecraftServer.java:795)
+[16:16:03] [Server thread/WARN]: 	at net.minecraft.server.v1_9_R2.DedicatedServer.D(DedicatedServer.java:403)
+[16:16:03] [Server thread/WARN]: 	at net.minecraft.server.v1_9_R2.MinecraftServer.C(MinecraftServer.java:723)
+[16:16:03] [Server thread/WARN]: 	at net.minecraft.server.v1_9_R2.MinecraftServer.run(MinecraftServer.java:622)
+[16:16:03] [Server thread/WARN]: 	at java.lang.Thread.run(Unknown Source)
+[16:16:04] [Server thread/WARN]: [RaspberryJuice] Error occured handling command
+[16:16:04] [Server thread/WARN]: java.lang.ArrayIndexOutOfBoundsException: 6
+[16:16:04] [Server thread/WARN]: 	at net.zhuoweizhang.raspberryjuice.RemoteSession.handleCommand(RemoteSession.java:171)
+[16:16:04] [Server thread/WARN]: 	at net.zhuoweizhang.raspberryjuice.RemoteSession.handleLine(RemoteSession.java:134)
+[16:16:04] [Server thread/WARN]: 	at net.zhuoweizhang.raspberryjuice.RemoteSession.tick(RemoteSession.java:114)
+[16:16:04] [Server thread/WARN]: 	at net.zhuoweizhang.raspberryjuice.RaspberryJuicePlugin$TickHandler.run(RaspberryJuicePlugin.java:206)
+[16:16:04] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_9_R2.scheduler.CraftTask.run(CraftTask.java:58)
+[16:16:04] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_9_R2.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:352)
+[16:16:04] [Server thread/WARN]: 	at net.minecraft.server.v1_9_R2.MinecraftServer.D(MinecraftServer.java:795)
+[16:16:04] [Server thread/WARN]: 	at net.minecraft.server.v1_9_R2.DedicatedServer.D(DedicatedServer.java:403)
+[16:16:04] [Server thread/WARN]: 	at net.minecraft.server.v1_9_R2.MinecraftServer.C(MinecraftServer.java:723)
+[16:16:04] [Server thread/WARN]: 	at net.minecraft.server.v1_9_R2.MinecraftServer.run(MinecraftServer.java:622)
+[16:16:04] [Server thread/WARN]: 	at java.lang.Thread.run(Unknown Source)
+[16:16:04] [Server thread/WARN]: [RaspberryJuice] Error occured handling command
+[16:16:04] [Server thread/WARN]: java.lang.ArrayIndexOutOfBoundsException: 6
+[16:16:04] [Server thread/WARN]: 	at net.zhuoweizhang.raspberryjuice.RemoteSession.handleCommand(RemoteSession.java:171)
+[16:16:04] [Server thread/WARN]: 	at net.zhuoweizhang.raspberryjuice.RemoteSession.handleLine(RemoteSession.java:134)
+[16:16:04] [Server thread/WARN]: 	at net.zhuoweizhang.raspberryjuice.RemoteSession.tick(RemoteSession.java:114)
+[16:16:04] [Server thread/WARN]: 	at net.zhuoweizhang.raspberryjuice.RaspberryJuicePlugin$TickHandler.run(RaspberryJuicePlugin.java:206)
+[16:16:04] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_9_R2.scheduler.CraftTask.run(CraftTask.java:58)
+[16:16:04] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_9_R2.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:352)
+[16:16:04] [Server thread/WARN]: 	at net.minecraft.server.v1_9_R2.MinecraftServer.D(MinecraftServer.java:795)
+[16:16:04] [Server thread/WARN]: 	at net.minecraft.server.v1_9_R2.DedicatedServer.D(DedicatedServer.java:403)
+[16:16:04] [Server thread/WARN]: 	at net.minecraft.server.v1_9_R2.MinecraftServer.C(MinecraftServer.java:723)
+[16:16:04] [Server thread/WARN]: 	at net.minecraft.server.v1_9_R2.MinecraftServer.run(MinecraftServer.java:622)
+[16:16:04] [Server thread/WARN]: 	at java.lang.Thread.run(Unknown Source)
+[16:16:04] [Server thread/WARN]: [RaspberryJuice] Error occured handling command
+[16:16:04] [Server thread/WARN]: java.lang.ArrayIndexOutOfBoundsException: 6
+[16:16:04] [Server thread/WARN]: 	at net.zhuoweizhang.raspberryjuice.RemoteSession.handleCommand(RemoteSession.java:171)
+[16:16:04] [Server thread/WARN]: 	at net.zhuoweizhang.raspberryjuice.RemoteSession.handleLine(RemoteSession.java:134)
+[16:16:04] [Server thread/WARN]: 	at net.zhuoweizhang.raspberryjuice.RemoteSession.tick(RemoteSession.java:114)
+[16:16:04] [Server thread/WARN]: 	at net.zhuoweizhang.raspberryjuice.RaspberryJuicePlugin$TickHandler.run(RaspberryJuicePlugin.java:206)
+[16:16:04] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_9_R2.scheduler.CraftTask.run(CraftTask.java:58)
+[16:16:04] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_9_R2.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:352)
+[16:16:04] [Server thread/WARN]: 	at net.minecraft.server.v1_9_R2.MinecraftServer.D(MinecraftServer.java:795)
+[16:16:04] [Server thread/WARN]: 	at net.minecraft.server.v1_9_R2.DedicatedServer.D(DedicatedServer.java:403)
+[16:16:04] [Server thread/WARN]: 	at net.minecraft.server.v1_9_R2.MinecraftServer.C(MinecraftServer.java:723)
+[16:16:04] [Server thread/WARN]: 	at net.minecraft.server.v1_9_R2.MinecraftServer.run(MinecraftServer.java:622)
+[16:16:04] [Server thread/WARN]: 	at java.lang.Thread.run(Unknown Source)
+[16:16:04] [Server thread/WARN]: [RaspberryJuice] Error occured handling command
+[16:16:04] [Server thread/WARN]: java.lang.ArrayIndexOutOfBoundsException
+[16:16:04] [Server thread/WARN]: [RaspberryJuice] Error occured handling command
+[16:16:04] [Server thread/WARN]: java.lang.ArrayIndexOutOfBoundsException
+[16:16:04] [Server thread/WARN]: [RaspberryJuice] Error occured handling command
+[16:16:04] [Server thread/WARN]: java.lang.ArrayIndexOutOfBoundsException
+[16:16:04] [Server thread/WARN]: [RaspberryJuice] Error occured handling command
+[16:16:04] [Server thread/WARN]: java.lang.ArrayIndexOutOfBoundsException
+[16:16:04] [Server thread/WARN]: [RaspberryJuice] Error occured handling command
+[16:16:04] [Server thread/WARN]: java.lang.ArrayIndexOutOfBoundsException
+[16:16:04] [Server thread/WARN]: [RaspberryJuice] Error occured handling command
+[16:16:04] [Server thread/WARN]: java.lang.ArrayIndexOutOfBoundsException
+[16:16:04] [Server thread/WARN]: [RaspberryJuice] Error occured handling command
+[16:16:04] [Server thread/WARN]: java.lang.ArrayIndexOutOfBoundsException
+[16:16:04] [Server thread/WARN]: [RaspberryJuice] Error occured handling command
+[16:16:04] [Server thread/WARN]: java.lang.ArrayIndexOutOfBoundsException
+[16:16:04] [Server thread/WARN]: [RaspberryJuice] Error occured handling command
+[16:16:04] [Server thread/WARN]: java.lang.ArrayIndexOutOfBoundsException
+[16:16:04] [Server thread/WARN]: [RaspberryJuice] Error occured handling command
+[16:16:04] [Server thread/WARN]: java.lang.ArrayIndexOutOfBoundsException
+[16:16:04] [Server thread/WARN]: [RaspberryJuice] Error occured handling command
+[16:16:04] [Server thread/WARN]: java.lang.ArrayIndexOutOfBoundsException
+[16:16:04] [Server thread/WARN]: [RaspberryJuice] Error occured handling command
+[16:16:04] [Server thread/WARN]: java.lang.ArrayIndexOutOfBoundsException
+[16:16:04] [Server thread/WARN]: [RaspberryJuice] Error occured handling command
+[16:16:04] [Server thread/WARN]: java.lang.ArrayIndexOutOfBoundsException
+[16:16:04] [Server thread/WARN]: [RaspberryJuice] Error occured handling command
+[16:16:04] [Server thread/WARN]: java.lang.ArrayIndexOutOfBoundsException
+[16:16:04] [Server thread/WARN]: [RaspberryJuice] Error occured handling command
+[16:16:04] [Server thread/WARN]: java.lang.ArrayIndexOutOfBoundsException
+[16:16:04] [Server thread/WARN]: [RaspberryJuice] Error occured handling command
+[16:16:04] [Server thread/WARN]: java.lang.ArrayIndexOutOfBoundsException
+[16:16:05] [Server thread/WARN]: [RaspberryJuice] Error occured handling command
+[16:16:05] [Server thread/WARN]: java.lang.ArrayIndexOutOfBoundsException
+[16:16:05] [Server thread/WARN]: [RaspberryJuice] Error occured handling command
+[16:16:05] [Server thread/WARN]: java.lang.ArrayIndexOutOfBoundsException
+[16:16:05] [Server thread/WARN]: [RaspberryJuice] Error occured handling command
+[16:16:05] [Server thread/WARN]: java.lang.ArrayIndexOutOfBoundsException
+[16:16:05] [Server thread/WARN]: [RaspberryJuice] Error occured handling command
+[16:16:05] [Server thread/WARN]: java.lang.ArrayIndexOutOfBoundsException
+[16:16:05] [Server thread/WARN]: [RaspberryJuice] Error occured handling command
+[16:16:05] [Server thread/WARN]: java.lang.ArrayIndexOutOfBoundsException
+[16:16:05] [Server thread/WARN]: [RaspberryJuice] Error occured handling command
+[16:16:05] [Server thread/WARN]: java.lang.ArrayIndexOutOfBoundsException
+[16:16:05] [Server thread/WARN]: [RaspberryJuice] Error occured handling command
+[16:16:05] [Server thread/WARN]: java.lang.ArrayIndexOutOfBoundsException
+[16:16:05] [Server thread/WARN]: [RaspberryJuice] Error occured handling command
+[16:16:05] [Server thread/WARN]: java.lang.ArrayIndexOutOfBoundsException
+[16:16:05] [Server thread/WARN]: [RaspberryJuice] Error occured handling command
+[16:16:05] [Server thread/WARN]: java.lang.ArrayIndexOutOfBoundsException
+[16:16:05] [Server thread/WARN]: [RaspberryJuice] Error occured handling command
+[16:16:05] [Server thread/WARN]: java.lang.ArrayIndexOutOfBoundsException
+[16:16:05] [Server thread/WARN]: [RaspberryJuice] Error occured handling command
+[16:16:05] [Server thread/WARN]: java.lang.ArrayIndexOutOfBoundsException
+[16:16:05] [Server thread/WARN]: [RaspberryJuice] Error occured handling command
+[16:16:05] [Server thread/WARN]: java.lang.ArrayIndexOutOfBoundsException
+[16:16:05] [Server thread/WARN]: [RaspberryJuice] Error occured handling command
+[16:16:05] [Server thread/WARN]: java.lang.ArrayIndexOutOfBoundsException
+[16:16:05] [Server thread/WARN]: [RaspberryJuice] Error occured handling command
+[16:16:05] [Server thread/WARN]: java.lang.ArrayIndexOutOfBoundsException
+[16:16:05] [Server thread/WARN]: [RaspberryJuice] Error occured handling command
+[16:16:05] [Server thread/WARN]: java.lang.ArrayIndexOutOfBoundsException
+[16:16:05] [Server thread/WARN]: [RaspberryJuice] Error occured handling command
+[16:16:05] [Server thread/WARN]: java.lang.ArrayIndexOutOfBoundsException
+[16:16:05] [Server thread/WARN]: [RaspberryJuice] Error occured handling command
+[16:16:05] [Server thread/WARN]: java.lang.ArrayIndexOutOfBoundsException
+[16:16:05] [Server thread/WARN]: [RaspberryJuice] Error occured handling command
+[16:16:05] [Server thread/WARN]: java.lang.ArrayIndexOutOfBoundsException
+[16:16:05] [Server thread/WARN]: [RaspberryJuice] Error occured handling command
+[16:16:05] [Server thread/WARN]: java.lang.ArrayIndexOutOfBoundsException
+[16:16:05] [Server thread/WARN]: [RaspberryJuice] Error occured handling command
+[16:16:05] [Server thread/WARN]: java.lang.ArrayIndexOutOfBoundsException
+[16:16:06] [Server thread/WARN]: [RaspberryJuice] Error occured handling command
+[16:16:06] [Server thread/WARN]: java.lang.ArrayIndexOutOfBoundsException
+[16:16:06] [Server thread/WARN]: [RaspberryJuice] Error occured handling command
+[16:16:06] [Server thread/WARN]: java.lang.ArrayIndexOutOfBoundsException
+[16:16:06] [Server thread/WARN]: [RaspberryJuice] Error occured handling command
+[16:16:06] [Server thread/WARN]: java.lang.ArrayIndexOutOfBoundsException
+[16:16:06] [Server thread/WARN]: [RaspberryJuice] Error occured handling command
+[16:16:06] [Server thread/WARN]: java.lang.ArrayIndexOutOfBoundsException
+[16:16:06] [Server thread/WARN]: [RaspberryJuice] Error occured handling command
+[16:16:06] [Server thread/WARN]: java.lang.ArrayIndexOutOfBoundsException
+[16:16:06] [Server thread/WARN]: [RaspberryJuice] Error occured handling command
+[16:16:06] [Server thread/WARN]: java.lang.ArrayIndexOutOfBoundsException
+[16:16:06] [Server thread/WARN]: [RaspberryJuice] Error occured handling command
+[16:16:06] [Server thread/WARN]: java.lang.ArrayIndexOutOfBoundsException
+[16:16:06] [Server thread/WARN]: [RaspberryJuice] Error occured handling command
+[16:16:06] [Server thread/WARN]: java.lang.ArrayIndexOutOfBoundsException
+[16:16:06] [Server thread/WARN]: [RaspberryJuice] Error occured handling command
+[16:16:06] [Server thread/WARN]: java.lang.ArrayIndexOutOfBoundsException
+[16:16:06] [Server thread/WARN]: [RaspberryJuice] Error occured handling command
+[16:16:06] [Server thread/WARN]: java.lang.ArrayIndexOutOfBoundsException
+[16:16:06] [Server thread/WARN]: [RaspberryJuice] Error occured handling command
+[16:16:06] [Server thread/WARN]: java.lang.ArrayIndexOutOfBoundsException
+[16:16:06] [Server thread/WARN]: [RaspberryJuice] Error occured handling command
+[16:16:06] [Server thread/WARN]: java.lang.ArrayIndexOutOfBoundsException
+[16:16:06] [Server thread/WARN]: [RaspberryJuice] Error occured handling command
+[16:16:06] [Server thread/WARN]: java.lang.ArrayIndexOutOfBoundsException
+[16:16:06] [Server thread/WARN]: [RaspberryJuice] Error occured handling command
+[16:16:06] [Server thread/WARN]: java.lang.ArrayIndexOutOfBoundsException
+[16:16:06] [Server thread/WARN]: [RaspberryJuice] Error occured handling command
+[16:16:06] [Server thread/WARN]: java.lang.ArrayIndexOutOfBoundsException
+[16:16:06] [Server thread/WARN]: [RaspberryJuice] Error occured handling command
+[16:16:06] [Server thread/WARN]: java.lang.ArrayIndexOutOfBoundsException
+[16:16:06] [Server thread/WARN]: [RaspberryJuice] Error occured handling command
+[16:16:06] [Server thread/WARN]: java.lang.ArrayIndexOutOfBoundsException
+[16:16:06] [Server thread/WARN]: [RaspberryJuice] Error occured handling command
+[16:16:06] [Server thread/WARN]: java.lang.ArrayIndexOutOfBoundsException
+[16:16:06] [Server thread/WARN]: [RaspberryJuice] Error occured handling command
+[16:16:06] [Server thread/WARN]: java.lang.ArrayIndexOutOfBoundsException
+[16:16:06] [Server thread/WARN]: [RaspberryJuice] Error occured handling command
+[16:16:06] [Server thread/WARN]: java.lang.ArrayIndexOutOfBoundsException
+[16:16:07] [Server thread/WARN]: [RaspberryJuice] Error occured handling command
+[16:16:07] [Server thread/WARN]: java.lang.ArrayIndexOutOfBoundsException
+[16:16:07] [Server thread/WARN]: [RaspberryJuice] Error occured handling command
+[16:16:07] [Server thread/WARN]: java.lang.ArrayIndexOutOfBoundsException
+[16:16:07] [Server thread/WARN]: [RaspberryJuice] Error occured handling command
+[16:16:07] [Server thread/WARN]: java.lang.ArrayIndexOutOfBoundsException
+[16:16:07] [Server thread/WARN]: [RaspberryJuice] Error occured handling command
+[16:16:07] [Server thread/WARN]: java.lang.ArrayIndexOutOfBoundsException
+[16:16:07] [Server thread/WARN]: [RaspberryJuice] Error occured handling command
+[16:16:07] [Server thread/WARN]: java.lang.ArrayIndexOutOfBoundsException
+[16:16:07] [Server thread/WARN]: [RaspberryJuice] Error occured handling command
+[16:16:07] [Server thread/WARN]: java.lang.ArrayIndexOutOfBoundsException
+[16:16:07] [Server thread/WARN]: [RaspberryJuice] Error occured handling command
+[16:16:07] [Server thread/WARN]: java.lang.ArrayIndexOutOfBoundsException
+[16:16:07] [Server thread/WARN]: [RaspberryJuice] Error occured handling command
+[16:16:07] [Server thread/WARN]: java.lang.ArrayIndexOutOfBoundsException
+[16:16:07] [Server thread/WARN]: [RaspberryJuice] Error occured handling command
+[16:16:07] [Server thread/WARN]: java.lang.ArrayIndexOutOfBoundsException
+[16:16:07] [Server thread/WARN]: [RaspberryJuice] Error occured handling command
+[16:16:07] [Server thread/WARN]: java.lang.ArrayIndexOutOfBoundsException
+[16:16:07] [Server thread/WARN]: [RaspberryJuice] Error occured handling command
+[16:16:07] [Server thread/WARN]: java.lang.ArrayIndexOutOfBoundsException
+[16:16:07] [Server thread/WARN]: [RaspberryJuice] Error occured handling command
+[16:16:07] [Server thread/WARN]: java.lang.ArrayIndexOutOfBoundsException
+[16:16:07] [Server thread/WARN]: [RaspberryJuice] Error occured handling command
+[16:16:07] [Server thread/WARN]: java.lang.ArrayIndexOutOfBoundsException
+[16:16:07] [Server thread/WARN]: [RaspberryJuice] Error occured handling command
+[16:16:07] [Server thread/WARN]: java.lang.ArrayIndexOutOfBoundsException
+[16:16:07] [Server thread/WARN]: [RaspberryJuice] Error occured handling command
+[16:16:07] [Server thread/WARN]: java.lang.ArrayIndexOutOfBoundsException
+[16:16:07] [Server thread/WARN]: [RaspberryJuice] Error occured handling command
+[16:16:07] [Server thread/WARN]: java.lang.ArrayIndexOutOfBoundsException
+[16:16:07] [Server thread/WARN]: [RaspberryJuice] Error occured handling command
+[16:16:07] [Server thread/WARN]: java.lang.ArrayIndexOutOfBoundsException
+[16:16:07] [Server thread/WARN]: [RaspberryJuice] Error occured handling command
+[16:16:07] [Server thread/WARN]: java.lang.ArrayIndexOutOfBoundsException
+[16:16:07] [Server thread/WARN]: [RaspberryJuice] Error occured handling command
+[16:16:07] [Server thread/WARN]: java.lang.ArrayIndexOutOfBoundsException
+[16:16:07] [Server thread/WARN]: [RaspberryJuice] Error occured handling command
+[16:16:07] [Server thread/WARN]: java.lang.ArrayIndexOutOfBoundsException
+[16:16:08] [Server thread/WARN]: [RaspberryJuice] Error occured handling command
+[16:16:08] [Server thread/WARN]: java.lang.ArrayIndexOutOfBoundsException
+[16:16:08] [Server thread/WARN]: [RaspberryJuice] Error occured handling command
+[16:16:08] [Server thread/WARN]: java.lang.ArrayIndexOutOfBoundsException
+[16:16:08] [Server thread/WARN]: [RaspberryJuice] Error occured handling command
+[16:16:08] [Server thread/WARN]: java.lang.ArrayIndexOutOfBoundsException
+[16:16:08] [Server thread/WARN]: [RaspberryJuice] Error occured handling command
+[16:16:08] [Server thread/WARN]: java.lang.ArrayIndexOutOfBoundsException
+[16:16:08] [Server thread/WARN]: [RaspberryJuice] Error occured handling command
+[16:16:08] [Server thread/WARN]: java.lang.ArrayIndexOutOfBoundsException
+[16:16:08] [Server thread/WARN]: [RaspberryJuice] Error occured handling command
+[16:16:08] [Server thread/WARN]: java.lang.ArrayIndexOutOfBoundsException
+[16:16:08] [Server thread/WARN]: [RaspberryJuice] Error occured handling command
+[16:16:08] [Server thread/WARN]: java.lang.ArrayIndexOutOfBoundsException
+[16:16:08] [Server thread/WARN]: [RaspberryJuice] Error occured handling command
+[16:16:08] [Server thread/WARN]: java.lang.ArrayIndexOutOfBoundsException
+[16:16:08] [Server thread/WARN]: [RaspberryJuice] Error occured handling command
+[16:16:08] [Server thread/WARN]: java.lang.ArrayIndexOutOfBoundsException
+[16:16:08] [Server thread/WARN]: [RaspberryJuice] Error occured handling command
+[16:16:08] [Server thread/WARN]: java.lang.ArrayIndexOutOfBoundsException
+[16:16:08] [Server thread/WARN]: [RaspberryJuice] Error occured handling command
+[16:16:08] [Server thread/WARN]: java.lang.ArrayIndexOutOfBoundsException
+[16:16:08] [Server thread/WARN]: [RaspberryJuice] Error occured handling command
+[16:16:08] [Server thread/WARN]: java.lang.ArrayIndexOutOfBoundsException
+[16:16:08] [Server thread/WARN]: [RaspberryJuice] Error occured handling command
+[16:16:08] [Server thread/WARN]: java.lang.ArrayIndexOutOfBoundsException
+[16:16:08] [Server thread/WARN]: [RaspberryJuice] Error occured handling command
+[16:16:08] [Server thread/WARN]: java.lang.ArrayIndexOutOfBoundsException
+[16:16:08] [Server thread/WARN]: [RaspberryJuice] Error occured handling command
+[16:16:08] [Server thread/WARN]: java.lang.ArrayIndexOutOfBoundsException
+[16:16:08] [Thread-29/INFO]: [RaspberryJuice] Connection reset
+[16:16:08] [Server thread/WARN]: [RaspberryJuice] Error occured handling command
+[16:16:08] [Server thread/WARN]: java.lang.ArrayIndexOutOfBoundsException
+[16:16:08] [Server thread/WARN]: [RaspberryJuice] Error occured handling command
+[16:16:08] [Server thread/WARN]: java.lang.ArrayIndexOutOfBoundsException
+[16:16:08] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:53616.
+[16:16:30] [Thread-7/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:53628.
+[16:16:30] [Thread-32/INFO]: [RaspberryJuice] Starting output thread!
+[16:16:30] [Thread-31/INFO]: [RaspberryJuice] Starting input thread
+[16:16:42] [Thread-31/INFO]: [RaspberryJuice] Connection reset
+[16:16:42] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:53628.
+[16:16:53] [Thread-7/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:53637.
+[16:16:53] [Thread-33/INFO]: [RaspberryJuice] Starting input thread
+[16:16:53] [Thread-34/INFO]: [RaspberryJuice] Starting output thread!
+[16:17:59] [Server thread/INFO]: Cynthia7979 issued server command: /tp 608 52 946
+[16:17:59] [Server thread/INFO]: [Cynthia7979: Teleported Cynthia7979 to 608.5, 52.0, 946.5]
+[16:19:01] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:53637.
+[16:22:03] [Server thread/INFO]: Cynthia7979 issued server command: /tp 608 52 946
+[16:22:03] [Server thread/INFO]: [Cynthia7979: Teleported Cynthia7979 to 608.5, 52.0, 946.5]
+[16:22:08] [Server thread/INFO]: Cynthia7979 issued server command: /tp 608 52 946
+[16:22:08] [Server thread/INFO]: [Cynthia7979: Teleported Cynthia7979 to 608.5, 52.0, 946.5]
+[16:22:11] [Thread-7/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:53799.
+[16:22:11] [Thread-35/INFO]: [RaspberryJuice] Starting input thread
+[16:22:11] [Thread-36/INFO]: [RaspberryJuice] Starting output thread!
+[16:22:18] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:53799.
+[16:24:43] [Server thread/INFO]: Cynthia7979 issued server command: /tp 608 52 946
+[16:24:43] [Server thread/INFO]: [Cynthia7979: Teleported Cynthia7979 to 608.5, 52.0, 946.5]
+[16:24:46] [Server thread/INFO]: Cynthia7979 issued server command: /
+[16:24:48] [Server thread/INFO]: Cynthia7979 issued server command: /
+[16:24:50] [Server thread/INFO]: Cynthia7979 issued server command: /tp 608 52 946
+[16:24:50] [Server thread/INFO]: [Cynthia7979: Teleported Cynthia7979 to 608.5, 52.0, 946.5]
+[16:24:53] [Thread-7/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:53852.
+[16:24:53] [Thread-37/INFO]: [RaspberryJuice] Starting input thread
+[16:24:53] [Thread-38/INFO]: [RaspberryJuice] Starting output thread!
+[16:25:27] [Server thread/WARN]: [RaspberryJuice] Over 9000 commands were queued - deferring 13419 to next tick
+[16:25:28] [Server thread/WARN]: [RaspberryJuice] Over 9000 commands were queued - deferring 21008 to next tick
+[16:25:28] [Server thread/WARN]: [RaspberryJuice] Over 9000 commands were queued - deferring 17891 to next tick
+[16:25:28] [Server thread/WARN]: [RaspberryJuice] Over 9000 commands were queued - deferring 11126 to next tick
+[16:25:29] [Server thread/WARN]: [RaspberryJuice] Over 9000 commands were queued - deferring 4253 to next tick
+[16:25:39] [Server thread/WARN]: [RaspberryJuice] Over 9000 commands were queued - deferring 9431 to next tick
+[16:25:39] [Server thread/WARN]: [RaspberryJuice] Over 9000 commands were queued - deferring 2106 to next tick
+[16:25:40] [Server thread/WARN]: [RaspberryJuice] Over 9000 commands were queued - deferring 7009 to next tick
+[16:25:41] [Server thread/INFO]: Cynthia7979 issued server command: /help reload
+[16:25:41] [Server thread/WARN]: [RaspberryJuice] Over 9000 commands were queued - deferring 1550 to next tick
+[16:25:53] [Server thread/INFO]: Cynthia7979 issued server command: /help restart
+[16:26:04] [Server thread/WARN]: [RaspberryJuice] Over 9000 commands were queued - deferring 4395 to next tick
+[16:26:05] [Server thread/WARN]: [RaspberryJuice] Over 9000 commands were queued - deferring 13315 to next tick
+[16:26:06] [Server thread/WARN]: [RaspberryJuice] Over 9000 commands were queued - deferring 11203 to next tick
+[16:26:06] [Server thread/WARN]: [RaspberryJuice] Over 9000 commands were queued - deferring 3787 to next tick
+[16:26:07] [Server thread/WARN]: [RaspberryJuice] Over 9000 commands were queued - deferring 13596 to next tick
+[16:26:08] [Server thread/WARN]: [RaspberryJuice] Over 9000 commands were queued - deferring 17374 to next tick
+[16:26:08] [Server thread/WARN]: [RaspberryJuice] Over 9000 commands were queued - deferring 23636 to next tick
+[16:26:09] [Server thread/WARN]: [RaspberryJuice] Over 9000 commands were queued - deferring 29597 to next tick
+[16:26:10] [Server thread/WARN]: [RaspberryJuice] Over 9000 commands were queued - deferring 31984 to next tick
+[16:26:10] [Server thread/WARN]: [RaspberryJuice] Over 9000 commands were queued - deferring 24639 to next tick
+[16:26:10] [Server thread/WARN]: [RaspberryJuice] Over 9000 commands were queued - deferring 18897 to next tick
+[16:26:11] [Server thread/WARN]: [RaspberryJuice] Over 9000 commands were queued - deferring 12024 to next tick
+[16:26:11] [Server thread/WARN]: [RaspberryJuice] Over 9000 commands were queued - deferring 5726 to next tick
+[16:26:16] [Server thread/WARN]: [RaspberryJuice] Over 9000 commands were queued - deferring 4405 to next tick
+[16:26:19] [Server thread/WARN]: [RaspberryJuice] Over 9000 commands were queued - deferring 815 to next tick
+[16:26:26] [Server thread/WARN]: [RaspberryJuice] Over 9000 commands were queued - deferring 760 to next tick
+[16:26:30] [Server thread/WARN]: [RaspberryJuice] Over 9000 commands were queued - deferring 7835 to next tick
+[16:26:31] [Server thread/WARN]: [RaspberryJuice] Over 9000 commands were queued - deferring 20493 to next tick
+[16:26:31] [Server thread/INFO]: Cynthia7979 issued server command: /help restart
+[16:26:32] [Server thread/WARN]: [RaspberryJuice] Over 9000 commands were queued - deferring 24178 to next tick
+[16:26:32] [Server thread/WARN]: [RaspberryJuice] Over 9000 commands were queued - deferring 17018 to next tick
+[16:26:32] [Server thread/WARN]: [RaspberryJuice] Over 9000 commands were queued - deferring 10370 to next tick
+[16:26:32] [Server thread/WARN]: [RaspberryJuice] Over 9000 commands were queued - deferring 2560 to next tick
+[16:26:35] [Server thread/INFO]: Cynthia7979 issued server command: /tp 608 52 946
+[16:26:35] [Server thread/INFO]: [Cynthia7979: Teleported Cynthia7979 to 608.5, 52.0, 946.5]
+[16:26:42] [Server thread/WARN]: [RaspberryJuice] Over 9000 commands were queued - deferring 8165 to next tick
+[16:26:42] [Server thread/WARN]: [RaspberryJuice] Over 9000 commands were queued - deferring 2170 to next tick
+[16:26:44] [Server thread/WARN]: [RaspberryJuice] Over 9000 commands were queued - deferring 4944 to next tick
+[16:26:52] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:53852.
+[16:27:34] [Server thread/INFO]: Cynthia7979 issued server command: /tp 608 52 946
+[16:27:34] [Server thread/INFO]: [Cynthia7979: Teleported Cynthia7979 to 608.5, 52.0, 946.5]
+[16:27:38] [Server thread/INFO]: Cynthia7979 issued server command: /tp 608 52 946
+[16:27:38] [Server thread/INFO]: [Cynthia7979: Teleported Cynthia7979 to 608.5, 52.0, 946.5]
+[16:27:40] [Thread-7/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:53898.
+[16:27:40] [Thread-39/INFO]: [RaspberryJuice] Starting input thread
+[16:27:40] [Thread-40/INFO]: [RaspberryJuice] Starting output thread!
+[16:28:02] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:53898.
+[16:28:21] [Server thread/INFO]: Cynthia7979 issued server command: /tp -529 47 20519
+[16:28:21] [Server thread/INFO]: [Cynthia7979: Teleported Cynthia7979 to -528.5, 47.0, 20519.5]
+[16:28:43] [Server thread/INFO]: Cynthia7979 issued server command: /tp 608 52 946
+[16:28:43] [Server thread/INFO]: [Cynthia7979: Teleported Cynthia7979 to 608.5, 52.0, 946.5]
+[16:29:01] [Server thread/INFO]: Cynthia7979 issued server command: /tp 608 52 946
+[16:29:01] [Server thread/INFO]: [Cynthia7979: Teleported Cynthia7979 to 608.5, 52.0, 946.5]
+[16:29:03] [Thread-7/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:53933.
+[16:29:03] [Thread-41/INFO]: [RaspberryJuice] Starting input thread
+[16:29:03] [Thread-42/INFO]: [RaspberryJuice] Starting output thread!
+[16:29:12] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:53933.
+[16:35:17] [Thread-7/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:54032.
+[16:35:17] [Thread-43/INFO]: [RaspberryJuice] Starting input thread
+[16:35:17] [Thread-44/INFO]: [RaspberryJuice] Starting output thread!
+[16:35:26] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:54032.
+[16:35:43] [Server thread/INFO]: Cynthia7979 issued server command: /tp 608 52 946
+[16:35:43] [Server thread/INFO]: [Cynthia7979: Teleported Cynthia7979 to 608.5, 52.0, 946.5]
+[16:35:45] [Server thread/INFO]: Cynthia7979 issued server command: /tp 608 52 946
+[16:35:45] [Server thread/INFO]: [Cynthia7979: Teleported Cynthia7979 to 608.5, 52.0, 946.5]
+[16:35:47] [Server thread/INFO]: Cynthia7979 issued server command: /tp 608 52 946
+[16:35:47] [Server thread/INFO]: [Cynthia7979: Teleported Cynthia7979 to 608.5, 52.0, 946.5]
+[16:35:50] [Thread-7/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:54043.
+[16:35:50] [Thread-45/INFO]: [RaspberryJuice] Starting input thread
+[16:35:50] [Thread-46/INFO]: [RaspberryJuice] Starting output thread!
+[16:35:57] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:54043.
+[16:36:49] [Server thread/INFO]: Cynthia7979 issued server command: /difficulty 0
+[16:36:49] [Server thread/INFO]: [Cynthia7979: Set game difficulty to Peaceful]
+[16:39:26] [Server thread/INFO]: Cynthia7979 issued server command: /tp 608 52 946
+[16:39:26] [Server thread/INFO]: [Cynthia7979: Teleported Cynthia7979 to 608.5, 52.0, 946.5]
+[16:39:28] [Server thread/INFO]: Cynthia7979 issued server command: /tp 608 52 946
+[16:39:28] [Server thread/INFO]: [Cynthia7979: Teleported Cynthia7979 to 608.5, 52.0, 946.5]
+[16:39:31] [Thread-7/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:54129.
+[16:39:31] [Thread-47/INFO]: [RaspberryJuice] Starting input thread
+[16:39:31] [Thread-48/INFO]: [RaspberryJuice] Starting output thread!
+[16:39:39] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:54129.
+[16:40:14] [Server thread/INFO]: Cynthia7979 issued server command: /tp 608 52 946
+[16:40:14] [Server thread/INFO]: [Cynthia7979: Teleported Cynthia7979 to 608.5, 52.0, 946.5]
+[16:40:16] [Server thread/INFO]: Cynthia7979 issued server command: /tp 608 52 946
+[16:40:16] [Server thread/INFO]: [Cynthia7979: Teleported Cynthia7979 to 608.5, 52.0, 946.5]
+[16:40:19] [Thread-49/INFO]: [RaspberryJuice] Starting input thread
+[16:40:19] [Thread-7/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:54147.
+[16:40:19] [Thread-50/INFO]: [RaspberryJuice] Starting output thread!
+[16:40:27] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:54147.
+[16:41:07] [Server thread/INFO]: Cynthia7979 issued server command: /gamemode 4
+[16:41:07] [Server thread/INFO]: [Cynthia7979: The number you have entered (4) is too big, it must be at most 3]
+[16:41:09] [Server thread/INFO]: Cynthia7979 issued server command: /gamemode 3
+[16:41:09] [Server thread/INFO]: [Cynthia7979: Set own game mode to Spectator Mode]
+[16:44:40] [Server thread/INFO]: Cynthia7979 issued server command: /gamemode 3
+[16:44:40] [Server thread/INFO]: [Cynthia7979: Set own game mode to Spectator Mode]
+[16:44:44] [Server thread/INFO]: Cynthia7979 issued server command: /gamemode 0
+[16:44:44] [Server thread/INFO]: [Cynthia7979: Set own game mode to Survival Mode]
+[16:44:46] [Server thread/INFO]: Cynthia7979 issued server command: /gamemode 1
+[16:44:46] [Server thread/INFO]: [Cynthia7979: Set own game mode to Creative Mode]
+[16:44:50] [Server thread/INFO]: Cynthia7979 issued server command: /tp 608 52 946
+[16:44:50] [Server thread/INFO]: [Cynthia7979: Teleported Cynthia7979 to 608.5, 52.0, 946.5]
+[16:46:19] [Thread-7/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:54256.
+[16:46:19] [Thread-51/INFO]: [RaspberryJuice] Starting input thread
+[16:46:19] [Thread-52/INFO]: [RaspberryJuice] Starting output thread!
+[16:46:22] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:54256.
+[16:47:11] [Thread-7/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:54274.
+[16:47:11] [Thread-53/INFO]: [RaspberryJuice] Starting input thread
+[16:47:11] [Thread-54/INFO]: [RaspberryJuice] Starting output thread!
+[16:47:14] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:54274.
+[16:48:01] [Thread-7/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:54289.
+[16:48:01] [Thread-55/INFO]: [RaspberryJuice] Starting input thread
+[16:48:01] [Thread-56/INFO]: [RaspberryJuice] Starting output thread!
+[16:48:04] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:54289.
+[16:48:28] [Thread-7/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:54300.
+[16:48:28] [Thread-57/INFO]: [RaspberryJuice] Starting input thread
+[16:48:28] [Thread-58/INFO]: [RaspberryJuice] Starting output thread!
+[16:48:32] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:54300.
+[16:49:11] [Thread-7/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:54319.
+[16:49:11] [Thread-59/INFO]: [RaspberryJuice] Starting input thread
+[16:49:11] [Thread-60/INFO]: [RaspberryJuice] Starting output thread!
+[16:49:14] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:54319.
+[16:50:16] [Thread-7/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:54345.
+[16:50:16] [Thread-61/INFO]: [RaspberryJuice] Starting input thread
+[16:50:16] [Thread-62/INFO]: [RaspberryJuice] Starting output thread!
+[16:50:19] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:54345.
+[16:50:29] [Thread-63/INFO]: [RaspberryJuice] Starting input thread
+[16:50:29] [Thread-64/INFO]: [RaspberryJuice] Starting output thread!
+[16:50:29] [Thread-7/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:54350.
+[16:50:33] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:54350.
+[16:51:02] [Thread-7/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:54362.
+[16:51:02] [Thread-66/INFO]: [RaspberryJuice] Starting output thread!
+[16:51:02] [Thread-65/INFO]: [RaspberryJuice] Starting input thread
+[16:51:05] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:54362.
+[16:53:11] [Thread-7/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:54410.
+[16:53:11] [Thread-67/INFO]: [RaspberryJuice] Starting input thread
+[16:53:11] [Thread-68/INFO]: [RaspberryJuice] Starting output thread!
+[16:53:14] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:54410.
+[16:53:50] [Thread-7/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:54425.
+[16:53:50] [Thread-69/INFO]: [RaspberryJuice] Starting input thread
+[16:53:50] [Thread-70/INFO]: [RaspberryJuice] Starting output thread!
+[16:53:54] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:54425.
+[16:54:06] [Server thread/INFO]: Cynthia7979 issued server command: /toggledownfall
+[16:54:06] [Server thread/INFO]: [Cynthia7979: Toggled downfall]
+[16:54:49] [Thread-7/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:54445.
+[16:54:49] [Thread-72/INFO]: [RaspberryJuice] Starting output thread!
+[16:54:49] [Thread-71/INFO]: [RaspberryJuice] Starting input thread
+[16:54:52] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:54445.
+[16:55:29] [Thread-7/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:54460.
+[16:55:29] [Thread-73/INFO]: [RaspberryJuice] Starting input thread
+[16:55:29] [Thread-74/INFO]: [RaspberryJuice] Starting output thread!
+[16:55:32] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:54460.
+[16:55:52] [Thread-7/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:54470.
+[16:55:52] [Thread-75/INFO]: [RaspberryJuice] Starting input thread
+[16:55:52] [Thread-76/INFO]: [RaspberryJuice] Starting output thread!
+[16:55:56] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:54470.
+[16:56:30] [Thread-7/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:54484.
+[16:56:30] [Thread-77/INFO]: [RaspberryJuice] Starting input thread
+[16:56:30] [Thread-78/INFO]: [RaspberryJuice] Starting output thread!
+[16:56:33] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:54484.
+[16:57:32] [Thread-7/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:54504.
+[16:57:32] [Thread-80/INFO]: [RaspberryJuice] Starting output thread!
+[16:57:32] [Thread-79/INFO]: [RaspberryJuice] Starting input thread
+[16:57:36] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:54504.
+[16:58:00] [Thread-7/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:54514.
+[16:58:00] [Thread-81/INFO]: [RaspberryJuice] Starting input thread
+[16:58:00] [Thread-82/INFO]: [RaspberryJuice] Starting output thread!
+[16:58:58] [Thread-7/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:54536.
+[16:58:58] [Thread-84/INFO]: [RaspberryJuice] Starting output thread!
+[16:58:58] [Thread-83/INFO]: [RaspberryJuice] Starting input thread
+[16:59:08] [Server thread/WARN]: [RaspberryJuice] Task #2 for RaspberryJuice v1.11 generated an exception
+java.util.ConcurrentModificationException
+	at java.util.ArrayList$Itr.checkForComodification(Unknown Source) ~[?:1.8.0_201]
+	at java.util.ArrayList$Itr.next(Unknown Source) ~[?:1.8.0_201]
+	at net.zhuoweizhang.raspberryjuice.RaspberryJuicePlugin$TickHandler.run(RaspberryJuicePlugin.java:201) ~[?:?]
+	at org.bukkit.craftbukkit.v1_9_R2.scheduler.CraftTask.run(CraftTask.java:58) ~[PaperSpigot-1.9.4-773.jar:git-Paper-773]
+	at org.bukkit.craftbukkit.v1_9_R2.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:352) [PaperSpigot-1.9.4-773.jar:git-Paper-773]
+	at net.minecraft.server.v1_9_R2.MinecraftServer.D(MinecraftServer.java:795) [PaperSpigot-1.9.4-773.jar:git-Paper-773]
+	at net.minecraft.server.v1_9_R2.DedicatedServer.D(DedicatedServer.java:403) [PaperSpigot-1.9.4-773.jar:git-Paper-773]
+	at net.minecraft.server.v1_9_R2.MinecraftServer.C(MinecraftServer.java:723) [PaperSpigot-1.9.4-773.jar:git-Paper-773]
+	at net.minecraft.server.v1_9_R2.MinecraftServer.run(MinecraftServer.java:622) [PaperSpigot-1.9.4-773.jar:git-Paper-773]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_201]
+[16:59:08] [Server thread/INFO]: Cynthia7979 lost connection: Disconnected
+[16:59:08] [Server thread/INFO]: Cynthia7979 left the game.
+[16:59:08] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:54514.
+[16:59:08] [Server thread/WARN]: [RaspberryJuice] Error occured handling command
+[16:59:08] [Server thread/WARN]: java.lang.NullPointerException
+[16:59:08] [Server thread/WARN]: 	at net.zhuoweizhang.raspberryjuice.RemoteSession.handleCommand(RemoteSession.java:263)
+[16:59:08] [Server thread/WARN]: 	at net.zhuoweizhang.raspberryjuice.RemoteSession.handleLine(RemoteSession.java:134)
+[16:59:08] [Server thread/WARN]: 	at net.zhuoweizhang.raspberryjuice.RemoteSession.tick(RemoteSession.java:114)
+[16:59:08] [Server thread/WARN]: 	at net.zhuoweizhang.raspberryjuice.RaspberryJuicePlugin$TickHandler.run(RaspberryJuicePlugin.java:206)
+[16:59:08] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_9_R2.scheduler.CraftTask.run(CraftTask.java:58)
+[16:59:08] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_9_R2.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:352)
+[16:59:08] [Server thread/WARN]: 	at net.minecraft.server.v1_9_R2.MinecraftServer.D(MinecraftServer.java:795)
+[16:59:08] [Server thread/WARN]: 	at net.minecraft.server.v1_9_R2.DedicatedServer.D(DedicatedServer.java:403)
+[16:59:08] [Server thread/WARN]: 	at net.minecraft.server.v1_9_R2.MinecraftServer.C(MinecraftServer.java:723)
+[16:59:08] [Server thread/WARN]: 	at net.minecraft.server.v1_9_R2.MinecraftServer.run(MinecraftServer.java:622)
+[16:59:08] [Server thread/WARN]: 	at java.lang.Thread.run(Unknown Source)
+[16:59:08] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:54536.
+[16:59:18] [User Authenticator #2/INFO]: UUID of player Cynthia7979 is 45a8d5c3-bef2-3470-aae4-f6bb9488993a
+[16:59:19] [Server thread/INFO]: Cynthia7979[/127.0.0.1:54544] logged in with entity id 514959 at ([world]577.9985359633472, 69.11813572707963, 1300.7195401192728)
+[16:59:19] [Server thread/INFO]: You whisper to Cynthia7979: - »¶Ó­Äú, Cynthia7979!
+[16:59:36] [Thread-7/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:54548.
+[16:59:36] [Thread-85/INFO]: [RaspberryJuice] Starting input thread
+[16:59:36] [Thread-86/INFO]: [RaspberryJuice] Starting output thread!
+[16:59:49] [Server thread/WARN]: [RaspberryJuice] Over 9000 commands were queued - deferring 104852 to next tick
+[16:59:50] [Server thread/WARN]: [RaspberryJuice] Over 9000 commands were queued - deferring 104310 to next tick
+[16:59:50] [Server thread/WARN]: [RaspberryJuice] Over 9000 commands were queued - deferring 104660 to next tick
+[16:59:51] [Server thread/WARN]: [RaspberryJuice] Over 9000 commands were queued - deferring 104780 to next tick
+[16:59:51] [Server thread/WARN]: [RaspberryJuice] Over 9000 commands were queued - deferring 104660 to next tick
+[16:59:52] [Server thread/WARN]: [RaspberryJuice] Over 9000 commands were queued - deferring 104531 to next tick
+[16:59:53] [Server thread/WARN]: [RaspberryJuice] Over 9000 commands were queued - deferring 111613 to next tick
+[16:59:54] [Server thread/WARN]: [RaspberryJuice] Over 9000 commands were queued - deferring 123264 to next tick
+[16:59:55] [Server thread/WARN]: [RaspberryJuice] Over 9000 commands were queued - deferring 134145 to next tick
+[16:59:56] [Server thread/WARN]: [RaspberryJuice] Over 9000 commands were queued - deferring 140679 to next tick
+[16:59:57] [Server thread/WARN]: [RaspberryJuice] Over 9000 commands were queued - deferring 142994 to next tick
+[16:59:58] [Server thread/WARN]: [RaspberryJuice] Over 9000 commands were queued - deferring 145528 to next tick
+[16:59:58] [Server thread/WARN]: [RaspberryJuice] Over 9000 commands were queued - deferring 147897 to next tick
+[16:59:59] [Server thread/WARN]: [RaspberryJuice] Over 9000 commands were queued - deferring 148476 to next tick
+[17:00:00] [Server thread/WARN]: [RaspberryJuice] Over 9000 commands were queued - deferring 148356 to next tick
+[17:00:00] [Server thread/WARN]: [RaspberryJuice] Over 9000 commands were queued - deferring 151301 to next tick
+[17:00:01] [Server thread/WARN]: [RaspberryJuice] Over 9000 commands were queued - deferring 151240 to next tick
+[17:00:02] [Server thread/WARN]: [RaspberryJuice] Over 9000 commands were queued - deferring 150886 to next tick
+[17:00:02] [Server thread/WARN]: [RaspberryJuice] Over 9000 commands were queued - deferring 150631 to next tick
+[17:00:03] [Server thread/WARN]: [RaspberryJuice] Over 9000 commands were queued - deferring 152147 to next tick
+[17:00:04] [Server thread/WARN]: [RaspberryJuice] Over 9000 commands were queued - deferring 160528 to next tick
+[17:00:05] [Server thread/WARN]: [RaspberryJuice] Over 9000 commands were queued - deferring 169148 to next tick
+[17:00:06] [Server thread/WARN]: [RaspberryJuice] Over 9000 commands were queued - deferring 172740 to next tick
+[17:00:07] [Server thread/WARN]: [RaspberryJuice] Over 9000 commands were queued - deferring 183086 to next tick
+[17:00:08] [Server thread/WARN]: [RaspberryJuice] Over 9000 commands were queued - deferring 186680 to next tick
+[17:00:08] [Server thread/WARN]: [RaspberryJuice] Over 9000 commands were queued - deferring 190273 to next tick
+[17:00:09] [Server thread/WARN]: [RaspberryJuice] Over 9000 commands were queued - deferring 192956 to next tick
+[17:00:10] [Server thread/WARN]: [RaspberryJuice] Over 9000 commands were queued - deferring 193747 to next tick
+[17:00:10] [Server thread/WARN]: [RaspberryJuice] Over 9000 commands were queued - deferring 194808 to next tick
+[17:00:11] [Server thread/WARN]: [RaspberryJuice] Over 9000 commands were queued - deferring 195612 to next tick
+[17:00:11] [Server thread/WARN]: [RaspberryJuice] Over 9000 commands were queued - deferring 197507 to next tick
+[17:00:12] [Server thread/WARN]: [RaspberryJuice] Over 9000 commands were queued - deferring 192141 to next tick
+[17:00:13] [Server thread/WARN]: [RaspberryJuice] Over 9000 commands were queued - deferring 183141 to next tick
+[17:00:14] [Server thread/WARN]: [RaspberryJuice] Over 9000 commands were queued - deferring 174141 to next tick
+[17:00:15] [Server thread/WARN]: [RaspberryJuice] Over 9000 commands were queued - deferring 165141 to next tick
+[17:00:15] [Server thread/WARN]: [RaspberryJuice] Over 9000 commands were queued - deferring 156141 to next tick
+[17:00:16] [Server thread/WARN]: [RaspberryJuice] Over 9000 commands were queued - deferring 147141 to next tick
+[17:00:17] [Server thread/WARN]: [RaspberryJuice] Over 9000 commands were queued - deferring 138141 to next tick
+[17:00:18] [Server thread/WARN]: [RaspberryJuice] Over 9000 commands were queued - deferring 129141 to next tick
+[17:00:19] [Server thread/WARN]: [RaspberryJuice] Over 9000 commands were queued - deferring 120141 to next tick
+[17:00:19] [Server thread/WARN]: [RaspberryJuice] Over 9000 commands were queued - deferring 111141 to next tick
+[17:00:20] [Server thread/WARN]: [RaspberryJuice] Over 9000 commands were queued - deferring 102141 to next tick
+[17:00:21] [Server thread/WARN]: [RaspberryJuice] Over 9000 commands were queued - deferring 93141 to next tick
+[17:00:22] [Server thread/WARN]: [RaspberryJuice] Over 9000 commands were queued - deferring 84141 to next tick
+[17:00:23] [Server thread/WARN]: [RaspberryJuice] Over 9000 commands were queued - deferring 75141 to next tick
+[17:00:23] [Server thread/WARN]: [RaspberryJuice] Over 9000 commands were queued - deferring 66141 to next tick
+[17:00:24] [Server thread/WARN]: [RaspberryJuice] Over 9000 commands were queued - deferring 57141 to next tick
+[17:00:25] [Server thread/WARN]: [RaspberryJuice] Over 9000 commands were queued - deferring 48141 to next tick
+[17:00:25] [Server thread/WARN]: [RaspberryJuice] Over 9000 commands were queued - deferring 39141 to next tick
+[17:00:26] [Server thread/WARN]: [RaspberryJuice] Over 9000 commands were queued - deferring 30141 to next tick
+[17:00:27] [Server thread/WARN]: [RaspberryJuice] Over 9000 commands were queued - deferring 21141 to next tick
+[17:00:27] [Server thread/WARN]: [RaspberryJuice] Over 9000 commands were queued - deferring 12141 to next tick
+[17:00:28] [Server thread/WARN]: [RaspberryJuice] Over 9000 commands were queued - deferring 3141 to next tick
+[17:00:28] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:54548.
+[17:00:49] [Thread-7/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:54578.
+[17:00:49] [Thread-87/INFO]: [RaspberryJuice] Starting input thread
+[17:00:49] [Thread-88/INFO]: [RaspberryJuice] Starting output thread!
+[17:00:52] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:54578.
+[17:01:08] [Thread-7/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:54592.
+[17:01:08] [Thread-89/INFO]: [RaspberryJuice] Starting input thread
+[17:01:08] [Thread-90/INFO]: [RaspberryJuice] Starting output thread!
+[17:01:20] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:54592.
+[17:01:21] [Thread-7/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:54600.
+[17:01:21] [Thread-91/INFO]: [RaspberryJuice] Starting input thread
+[17:01:21] [Thread-92/INFO]: [RaspberryJuice] Starting output thread!
+[17:01:24] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:54600.
+[17:02:02] [Thread-7/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:54613.
+[17:02:02] [Thread-93/INFO]: [RaspberryJuice] Starting input thread
+[17:02:02] [Thread-94/INFO]: [RaspberryJuice] Starting output thread!
+[17:02:38] [Server thread/INFO]: Cynthia7979 lost connection: Disconnected
+[17:02:38] [Server thread/INFO]: Cynthia7979 left the game.
