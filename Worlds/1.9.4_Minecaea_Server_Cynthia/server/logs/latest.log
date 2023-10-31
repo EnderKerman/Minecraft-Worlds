@@ -133,7 +133,7 @@
 [15:24:07] [Server thread/INFO]: /gamemode: A Mojang provided command.
 [15:24:07] [Server thread/INFO]: /gamerule: A Mojang provided command.
 [15:24:07] [Server thread/INFO]: /give: A Mojang provided command.
-[15:24:07] [Server thread/INFO]: /help: Shows the help menu
+[15:24:07] [Server thread/INFO]: /help: Shows the help main
 [15:24:07] [Server thread/INFO]: /kick: A Mojang provided command.
 [15:24:07] [Server thread/INFO]: /kill: A Mojang provided command.
 [15:24:07] [Server thread/INFO]: /list: A Mojang provided command.
@@ -183,7 +183,7 @@
 [15:24:07] [Server thread/INFO]: /xp: A Mojang provided command.
 [15:25:04] [User Authenticator #1/INFO]: UUID of player Cynthia7979 is 45a8d5c3-bef2-3470-aae4-f6bb9488993a
 [15:25:04] [Server thread/INFO]: Cynthia7979[/127.0.0.1:52382] logged in with entity id 10 at ([world]514.8725277003438, 60.33624713481864, 762.2131574865643)
-[15:25:04] [Server thread/INFO]: You whisper to Cynthia7979: - »¶Ó­Äú, Cynthia7979!
+[15:25:04] [Server thread/INFO]: You whisper to Cynthia7979: - ï¿½ï¿½Ó­ï¿½ï¿½, Cynthia7979!
 [15:33:09] [Thread-9/INFO]: [RaspberryJuice] Starting input thread
 [15:33:09] [Thread-7/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:52587.
 [15:33:09] [Thread-10/INFO]: [RaspberryJuice] Starting output thread!
@@ -1295,7 +1295,7 @@ java.util.ConcurrentModificationException
 [16:59:08] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:54536.
 [16:59:18] [User Authenticator #2/INFO]: UUID of player Cynthia7979 is 45a8d5c3-bef2-3470-aae4-f6bb9488993a
 [16:59:19] [Server thread/INFO]: Cynthia7979[/127.0.0.1:54544] logged in with entity id 514959 at ([world]577.9985359633472, 69.11813572707963, 1300.7195401192728)
-[16:59:19] [Server thread/INFO]: You whisper to Cynthia7979: - »¶Ó­Äú, Cynthia7979!
+[16:59:19] [Server thread/INFO]: You whisper to Cynthia7979: - ï¿½ï¿½Ó­ï¿½ï¿½, Cynthia7979!
 [16:59:36] [Thread-7/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:54548.
 [16:59:36] [Thread-85/INFO]: [RaspberryJuice] Starting input thread
 [16:59:36] [Thread-86/INFO]: [RaspberryJuice] Starting output thread!
