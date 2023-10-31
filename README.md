@@ -1,49 +1,47 @@
 # Minecraft-Worlds
 # 尝试利用GitHub同步mc存档ing
-# this line is meaningless
 
 ![网图资源自制，侵删](/icon.png)
 
-## What you should know
-This repo originally includes a map called "Gitcraft_Test". 
-**It will be originally in Minecraft Java Edition v1.8.1**. 
-It should be compatible with 1.8 and also every version after 1.8.
-If you wanted to edit the map, please don't add anything that's not in v1.8.
-Using v1.8.x to play is suggested.
+## What You Need to Know
+The map "Gitcraft_Test" that this repo includes is specifically made for **Minecraft Java Edition v1.8.1**. 
+Although it should be compatible with later versions, please don't add anything that's not in v1.8 when you edit the map. 
+It is recommended to use only v1.8.1 to play the map.
 
-## What you will see
-In the downloaded map, you will spawn near a coast and see a red banner
+## What You Will See
+In the downloaded Gitcraft_test map, you will spawn near a coast and see a red banner
 somewhere near you. Under the banner there will be a
 sign saying "Gitcraft Test No. 1" or something similar.
 
-## What you can do
-You can basically do anything you want with the downloaded map, but
-be sure *not to add anything not compatible with Minecraft Java Ed. v1.8*.
-After doing any change(s) to the map, you should use `git commit` and `git push`
-commands to add the changes online.
+## What You May Do
+You can basically do anything you want with the downloaded maps.
+After doing any change(s) to the map, you should use `git commit` and `git push` commands to sync the changes to GitHub.
+Please check the versions labelled before the name of each map directory and
+make sure not to do anything that may affect backwards compatibility.
 
-You can also add your own map and upload it. The map
-can have any name you want, but you should later rename the folder
-to "version_name". For example, "1.8_Gitcraft_test". You don't have to add
-the third part of the version #. After all copy your folder to `Worlds` directory,
-`git add` your folder, `commit` and then `push` your changes online!
+You may also add your own map and upload it. You may create the map with any name you like, 
+but you should later prefix the folder with "version_name". For example, "1.8_Gitcraft_test". 
+You don't have to add the third part of the version #. When finished, make sure that your folder is in the `Worlds` directory,
+`git add .`, `git commit`, and then `git push` your changes online.
 
-## Further information
-In the root directory, you'll see a file named "LOCK". Inside it you'll find something like this:
+## The Lock Mechanism
+In the root directory, you should find a file named "LOCK". Inside it you'll see something like this:
 ```
 1.8_Gitcraft_test: unlocked
 1.13_Minecaea: locked
 ```
-This file shows which world is under edit by someone and which world isn't.
-When you are to pull, change and push a world, you need to check this file that if the world is
-playing by someone (locked). If so, please don't play it now. If not, you will have to edit the "LOCK" file
-and add "locked" to the world you're playing, commit it, and eventually play your game. 
-Please don't forget to change "unlocked" back.
-And don't worry about the syntax, lock check is completely done by hand, so there is no way saying syntax.
+This file shows which worlds are being played by other players and which ones are not.
+When you are to do any edits to a world, 
+you'll need to check this file and make sure that nobody is in this world right now (that is, the world is marked as "unlocked"). 
+When no one's online and you'd like to play, please edit the "LOCK" file and "lock" the world you're playing. 
+Remember to commit and push the file before playing your game.
+After you're done, please don't forget to change "unlocked" back.
+You do not have to worry about syntax - this file will not be read by any automated programs, 
+so you'll be fine as long as the file's readable by a human.
 
-### Addendum
-Don't know where to find your maps? Open `C:\Users\(Your Username)\AppData\Roaming\.minecraft\saves`
-and you can find your saves!
+### Appendix
+Don't know where to find your maps? On Windows, go to `C:\Users\(Your Username)\AppData\Roaming\.minecraft\saves` to get the list of worlds!
+For other OS, go to [this link](https://help.minecraft.net/hc/en-us/articles/4409159214605-Managing-Data-and-Game-Storage-in-Minecraft-Java-Edition#h_01FGA90Z06DE00GT8E81SWX9SE).
 
 PS: Your downloaded worlds also have to go here!
 Remember to copy and paste world directory after you download or changed the world.
